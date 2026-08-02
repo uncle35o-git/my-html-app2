@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>瞬間英作文トレーニング</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            background-color: #f0f2f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background-color: white;
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            width: 90%;
+            max-width: 600px;
+            text-align: center;
+        }
+        h1 { color: #1a73e8; font-size: 1.5rem; margin-bottom: 1.5rem; }
+        .question-box { margin-bottom: 2rem; }
+        .japanese {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        .scramble {
+            font-size: 1.1rem;
+            color: #555;
+            background: #e8f0fe;
+            padding: 1rem;
+            border-radius: 8px;
+            line-height: 1.6;
+            letter-spacing: 1px;
+        }
+        .answer-section {
+            margin-top: 1.5rem;
+            display: none;
+        }
+        .answer-text {
+            font-size: 1.3rem;
+            color: #2e7d32;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+        .voice-buttons {
+            margin-top: 0.8rem;
+            display: flex;
+            justify-content: center;
+            gap: 0.6rem;
+        }
+        .btn-voice {
+            background-color: #fff;
+            color: #1a73e8;
+            border: 2px solid #1a73e8;
+            border-radius: 50%;
+            width: 42px;
+            height: 42px;
+            font-size: 1rem;
+        }
+        .btn-voice:hover {
+            background-color: #1a73e8;
+            color: white;
+        }
+        button {
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            transition: 0.3s;
+            font-weight: bold;
+        }
+        .btn-show {
+            background-color: #1a73e8;
+            color: white;
+            padding: 10px 25px;
+            font-size: 1rem;
+        }
+        .btn-show:hover { background-color: #1557b0; }
+        .btn-next {
+            background-color: #34a853;
+            color: white;
+            padding: 10px 25px;
+            font-size: 1rem;
+            margin-top: 1rem;
+        }
+        .btn-next:hover { background-color: #2d8e47; }
+        .set-selector {
+            margin-bottom: 1.2rem;
+            font-size: 0.95rem;
+        }
+        .set-selector select {
+            padding: 6px 10px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+            font-size: 0.95rem;
+        }
+        .progress {
+            font-size: 0.8rem;
+            color: #888;
+            margin-top: 2rem;
+        }
+        .speed-selector {
+            margin-bottom: 1rem;
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+            align-items: center;
+        }
+        .btn-speed {
+            background-color: #fff;
+            color: #555;
+            border: 2px solid #ccc;
+            border-radius: 20px;
+            padding: 5px 14px;
+            font-size: 0.9rem;
+        }
+        .btn-speed.active {
+            background-color: #1a73e8;
+            color: white;
+            border-color: #1a73e8;
+        }
+        .btn-speed:hover { background-color: #e8f0fe; }
+        .btn-speed.active:hover { background-color: #1557b0; }
+        .toggle-controls {
+            margin-bottom: 1rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.8rem;
+        }
+        .btn-toggle {
+            border-radius: 20px;
+            padding: 6px 16px;
+            font-size: 0.95rem;
+        }
+        .btn-hint-toggle {
+            background-color: #1a73e8;
+            color: white;
+            border: 2px solid #1a73e8;
+        }
+        .btn-hint-toggle.off {
+            background-color: #fff;
+            color: #555;
+            border: 2px solid #ccc;
+        }
+        .btn-auto-toggle {
+            background-color: #fff;
+            color: #e65100;
+            border: 2px solid #e65100;
+        }
+        .btn-auto-toggle.active {
+            background-color: #e65100;
+            color: white;
+        }
+        .btn-hint-toggle:hover { opacity: 0.85; }
+        .btn-auto-toggle:hover { opacity: 0.85; }
+        .countdown {
+            font-size: 1rem;
+            color: #e65100;
+            font-weight: bold;
+            min-width: 40px;
+            text-align: left;
+        }
+        .timer-bar-wrap {
+            width: 100%;
+            background: #eee;
+            border-radius: 5px;
+            height: 6px;
+            margin-top: 0.5rem;
+            margin-bottom: 0.5rem;
+            display: none;
+        }
+        .timer-bar {
+            height: 6px;
+            background: #1a73e8;
+            border-radius: 5px;
+            transition: width 1s linear;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>瞬間英作文トレーニング</h1>
+
+    <div class="set-selector">
+        <label for="set-select">問題集：</label>
+        <select id="set-select" onchange="switchSet()">
+            <option value="A">TOEIC Part2（瞬間英作文）</option>
+            <option value="B">TOEIC Part1（写真描写・状況英作文）</option>
+        </select>
+    </div>
+
+    <div class="speed-selector">
+        <span style="font-size:0.9rem;color:#555;">英語速度：</span>
+        <button class="btn-speed" onclick="setSpeed(0.7)">遅い</button>
+        <button class="btn-speed active" onclick="setSpeed(1.0)">普通</button>
+        <button class="btn-speed" onclick="setSpeed(1.3)">速い</button>
+    </div>
+
+    <div class="toggle-controls">
+        <button id="btn-hint" class="btn-toggle btn-hint-toggle" onclick="toggleHint()">💡ON</button>
+        <button id="btn-auto" class="btn-toggle btn-auto-toggle" onclick="toggleAuto()">⏱ 自動OFF</button>
+        <span id="countdown" class="countdown"></span>
+    </div>
+    <div class="timer-bar-wrap" id="timer-bar-wrap">
+        <div class="timer-bar" id="timer-bar"></div>
+    </div>
+
+    <div class="question-box">
+        <span id="jp-text" class="japanese"></span>
+        <div id="scramble-text" class="scramble"></div>
+        <div id="answer-area" class="answer-section">
+            <div id="en-text" class="answer-text"></div>
+            <div class="voice-buttons">
+                <button class="btn-voice" onclick="speakEnglish('US')">ア</button>
+                <button class="btn-voice" onclick="speakEnglish('GB')">イ</button>
+                <button class="btn-voice" onclick="speakEnglish('AU')">オ</button>
+            </div>
+        </div>
+    </div>
+
+    <button id="action-btn" class="btn-show" onclick="toggleAnswer()">答えを見る</button>
+    <br>
+    <button id="next-btn" class="btn-next" onclick="nextQuestion()" style="display: none;">次の問題へ</button>
+    <div class="progress" id="progress-text"></div>
+</div>
+
+<script>
+// 問題データは外部JSONファイル（quizA.json / quizB.json）から読み込みます
+let quizData = [];
+let quizDataB = [];
+
+
+let currentQuiz = null;
+let quizIndex = 0;
+let activeQuizData = quizData;
+let quizQueue = [];       // 「まだ出題していない問題」のシャッフル済みキュー
+let roundNumber = 0;      // 全問1周ごとにカウントアップ
+let englishRate = 1.0;
+const japaneseRate = 1.5;
+let autoMode = false;
+let autoTimer = null;
+let countdownInterval = null;
+let autoStep = 'question';
+let remainingSeconds = 0;
+let hintVisible = true;
+const QUESTION_TIME = 15;
+const NEXT_TIME = 10;
+
+if ('speechSynthesis' in window) {
+    window.speechSynthesis.getVoices();
+    window.speechSynthesis.onvoiceschanged = () => {
+        window.speechSynthesis.getVoices();
+    };
+}
+
+// Fisher-Yatesシャッフル（元の配列は変更しない）
+function shuffleArray(arr) {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+}
+
+// activeQuizDataを全問シャッフルしてキューに詰め直す（重複なし出題用）
+function refillQueue() {
+    const newQueue = shuffleArray(activeQuizData);
+    // 前の周の最後の問題が、次の周の最初に来て連続しないようにする
+    if (currentQuiz && newQueue.length > 1 && newQueue[0] === currentQuiz) {
+        const swapIdx = 1 + Math.floor(Math.random() * (newQueue.length - 1));
+        [newQueue[0], newQueue[swapIdx]] = [newQueue[swapIdx], newQueue[0]];
+    }
+    quizQueue = newQueue;
+    roundNumber++;
+}
+
+// 問題データ（quizA.json / quizB.json）をfetchで読み込む
+async function loadQuizData() {
+    document.getElementById('jp-text').innerText = '';
+    document.getElementById('scramble-text').innerText = '';
+    document.getElementById('progress-text').innerText = '問題データを読み込み中...';
+    document.getElementById('action-btn').style.display = 'none';
+
+    try {
+        const [resA, resB] = await Promise.all([
+            fetch('quizA.json'),
+            fetch('quizB.json')
+        ]);
+        if (!resA.ok) throw new Error('quizA.json の読み込みに失敗しました (' + resA.status + ')');
+        if (!resB.ok) throw new Error('quizB.json の読み込みに失敗しました (' + resB.status + ')');
+
+        quizData = await resA.json();
+        quizDataB = await resB.json();
+
+        const selected = document.getElementById('set-select').value;
+        activeQuizData = (selected === 'B') ? quizDataB : quizData;
+        quizQueue = [];
+        roundNumber = 0;
+
+        document.getElementById('action-btn').style.display = 'inline-block';
+        nextQuestion();
+    } catch (err) {
+        console.error(err);
+        document.getElementById('progress-text').innerText =
+            '問題データの読み込みに失敗しました。quizA.json と quizB.json を、このHTMLファイルと同じフォルダに置き、サーバー経由（file://ではなくhttp(s)://）で開いてください。';
+    }
+}
+
+function setSpeed(rate) {
+    englishRate = rate;
+    document.querySelectorAll('.btn-speed').forEach(btn => {
+        btn.classList.remove('active');
+    });
+    const labels = { 0.7: '遅い', 1.0: '普通', 1.3: '速い' };
+    document.querySelectorAll('.btn-speed').forEach(btn => {
+        if (btn.innerText === labels[rate]) btn.classList.add('active');
+    });
+}
+
+function toggleHint() {
+    hintVisible = !hintVisible;
+    const btn = document.getElementById('btn-hint');
+    const scramble = document.getElementById('scramble-text');
+    if (hintVisible) {
+        btn.classList.remove('off');
+        btn.innerText = '💡ON';
+        scramble.style.display = 'block';
+    } else {
+        btn.classList.add('off');
+        btn.innerText = '💡OFF';
+        scramble.style.display = 'none';
+    }
+}
+
+function toggleAuto() {
+    autoMode = !autoMode;
+    const btn = document.getElementById('btn-auto');
+    if (autoMode) {
+        btn.classList.add('active');
+        btn.innerText = '⏱ 自動ON';
+        document.getElementById('timer-bar-wrap').style.display = 'block';
+        startAutoQuestion();
+    } else {
+        btn.classList.remove('active');
+        btn.innerText = '⏱ 自動OFF';
+        document.getElementById('timer-bar-wrap').style.display = 'none';
+        clearAutoTimers();
+        document.getElementById('countdown').innerText = '';
+    }
+}
+
+function clearAutoTimers() {
+    if (autoTimer) { clearTimeout(autoTimer); autoTimer = null; }
+    if (countdownInterval) { clearInterval(countdownInterval); countdownInterval = null; }
+}
+
+function speakJapanese(text) {
+    if (!('speechSynthesis' in window)) return;
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'ja-JP';
+    utterance.rate = japaneseRate;
+    const voices = window.speechSynthesis.getVoices();
+    const matched = voices.find(v => v.lang === 'ja-JP' || v.lang === 'ja');
+    if (matched) utterance.voice = matched;
+    window.speechSynthesis.speak(utterance);
+}
+
+function speakEnglish(accent) {
+    if (!('speechSynthesis' in window) || !currentQuiz) return;
+    window.speechSynthesis.cancel();
+    const langMap = { 'US': 'en-US', 'GB': 'en-GB', 'AU': 'en-AU' };
+    const targetLang = langMap[accent];
+    const utterance = new SpeechSynthesisUtterance(currentQuiz.en);
+    utterance.lang = targetLang;
+    utterance.rate = englishRate;
+    const voices = window.speechSynthesis.getVoices();
+    const matched = voices.find(v => v.lang === targetLang);
+    if (matched) {
+        utterance.voice = matched;
+    } else {
+        const fallback = voices.find(v => v.lang && v.lang.startsWith('en'));
+        if (fallback) utterance.voice = fallback;
+    }
+    window.speechSynthesis.speak(utterance);
+}
+
+function startAutoQuestion() {
+    if (!autoMode) return;
+    autoStep = 'question';
+    remainingSeconds = QUESTION_TIME;
+    updateCountdown(remainingSeconds, QUESTION_TIME);
+    if (currentQuiz) speakJapanese(currentQuiz.jp);
+    countdownInterval = setInterval(() => {
+        remainingSeconds--;
+        updateCountdown(remainingSeconds, QUESTION_TIME);
+        if (remainingSeconds <= 0) {
+            clearInterval(countdownInterval);
+            countdownInterval = null;
+        }
+    }, 1000);
+    autoTimer = setTimeout(() => {
+        if (!autoMode) return;
+        toggleAnswer();
+        speakEnglish('US');
+        startAutoNext();
+    }, QUESTION_TIME * 1000);
+}
+
+function startAutoNext() {
+    if (!autoMode) return;
+    autoStep = 'answer';
+    remainingSeconds = NEXT_TIME;
+    updateCountdown(remainingSeconds, NEXT_TIME);
+    countdownInterval = setInterval(() => {
+        remainingSeconds--;
+        updateCountdown(remainingSeconds, NEXT_TIME);
+        if (remainingSeconds <= 0) {
+            clearInterval(countdownInterval);
+            countdownInterval = null;
+        }
+    }, 1000);
+    autoTimer = setTimeout(() => {
+        if (!autoMode) return;
+        nextQuestion();
+    }, NEXT_TIME * 1000);
+}
+
+function updateCountdown(sec, total) {
+    document.getElementById('countdown').innerText = `${sec}秒`;
+    const bar = document.getElementById('timer-bar');
+    const pct = (sec / total) * 100;
+    bar.style.transition = sec === total ? 'none' : 'width 1s linear';
+    bar.style.width = pct + '%';
+}
+
+function switchSet() {
+    const selected = document.getElementById('set-select').value;
+    activeQuizData = (selected === 'B') ? quizDataB : quizData;
+    quizQueue = [];
+    roundNumber = 0;
+    clearAutoTimers();
+    if (activeQuizData.length > 0) nextQuestion();
+}
+
+function nextQuestion() {
+    if (!activeQuizData || activeQuizData.length === 0) return;
+
+    clearAutoTimers();
+    window.speechSynthesis.cancel();
+    document.getElementById('answer-area').style.display = 'none';
+    document.getElementById('action-btn').style.display = 'inline-block';
+    document.getElementById('action-btn').innerText = '答えを見る';
+    document.getElementById('next-btn').style.display = 'none';
+    document.getElementById('countdown').innerText = '';
+
+    if (quizQueue.length === 0) refillQueue();
+    currentQuiz = quizQueue.shift();
+
+    document.getElementById('jp-text').innerText = currentQuiz.jp;
+    document.getElementById('scramble-text').innerText = `ヒント：\n${currentQuiz.scramble}`;
+    document.getElementById('en-text').innerText = currentQuiz.en;
+    const doneInRound = activeQuizData.length - quizQueue.length;
+    document.getElementById('progress-text').innerText =
+        `全${activeQuizData.length}問中 ${doneInRound}問目（${roundNumber}周目）`;
+
+    document.getElementById('scramble-text').style.display = hintVisible ? 'block' : 'none';
+
+    if (autoMode) startAutoQuestion();
+}
+
+function toggleAnswer() {
+    document.getElementById('scramble-text').style.display = 'none';
+    document.getElementById('answer-area').style.display = 'block';
+    document.getElementById('action-btn').style.display = 'none';
+    document.getElementById('next-btn').style.display = 'inline-block';
+}
+
+loadQuizData();
+</script>
+</body>
+</html>
