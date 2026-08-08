@@ -124,8 +124,6 @@
     "en": "Why are the clients coming so early?",
     "scramble": "the / early / are / clients / coming / so / Why"
   },
-
-
   {
     "jp": "売上報告書はいつ発表されますか？",
     "en": "When does the revenue report come out?",
@@ -875,5 +873,130 @@
     "jp": "現金とクレジットカード、どちらでお支払いですか？",
     "en": "Would you like to pay with cash or credit?",
     "scramble": "or / with / to / credit / you / cash / Would / pay / like"
+  },
+  {
+    "jp": "新しいオフィスへの移転はいつですか？",
+    "en": "When is the move to the new office?",
+    "scramble": "the / to / new / is / office / When / move / the"
+  },
+  {
+    "jp": "人事部の部長は誰ですか？",
+    "en": "Who's the head of the Human Resources Department?",
+    "scramble": "Who's / the / head / Department / of / the / Resources / Human"
+  },
+  {
+    "jp": "整備士に連絡しましたか？",
+    "en": "Did you contact a mechanic?",
+    "scramble": "a / you / mechanic / contact / Did"
+  },
+  {
+    "jp": "この余った清掃用品はどこに置けばいいですか？",
+    "en": "Where can I put these extra cleaning supplies?",
+    "scramble": "extra / these / I / Where / can / cleaning / supplies / put"
+  },
+  {
+    "jp": "会議の講演者の中で誰が一番良かったですか？",
+    "en": "Which conference speaker did you like the best?",
+    "scramble": "Which / speaker / conference / the / best / like / did / you"
+  },
+  {
+    "jp": "次に空いている予約はいつですか？",
+    "en": "When is your next available appointment?",
+    "scramble": "appointment / is / available / When / next / your"
+  },
+  {
+    "jp": "メイ・ヤンさんがこのミュージカルの振付師ですよね？",
+    "en": "Mei Yang is the choreographer of this musical, isn't she?",
+    "scramble": "this / is / of / Mei / the / Yang / choreographer / she / isn't / musical"
+  },
+  {
+    "jp": "昨夜見たあのアパートを借りるつもりですか？",
+    "en": "Are you going to rent that apartment you looked at last night?",
+    "scramble": "last / you / you / night / Are / that / rent / going / apartment / to / at / looked"
+  },
+  {
+    "jp": "今日はまだ面接する候補者がいるのではないですか？",
+    "en": "Don't you have more candidates to interview today?",
+    "scramble": "have / more / today / Don't / candidates / you / to / interview"
+  },
+  {
+    "jp": "授賞式の晩餐会には何人来ますか？",
+    "en": "How many people are coming to the awards banquet?",
+    "scramble": "are / coming / awards / How / many / people / banquet / to / the"
+  },
+  {
+    "jp": "デザートはいかがですか？",
+    "en": "Would you like some dessert?",
+    "scramble": "Would / dessert / some / like / you"
+  },
+  {
+    "jp": "今日、新しいスタッフに会う時間はありますか？",
+    "en": "Are you free to meet the new staff members today?",
+    "scramble": "today / Are / members / the / meet / free / you / to / staff / new"
+  },
+  {
+    "jp": "記者会見はいつ行われますか？",
+    "en": "When will the press conference take place?",
+    "scramble": "the / take / conference / When / place / press / will"
+  },
+  {
+    "jp": "携帯電話の充電器はどこで買えますか？",
+    "en": "Where can I buy a phone charger?",
+    "scramble": "Where / phone / charger / I / can / buy / a"
+  },
+  {
+    "jp": "事務用品は店舗で買うべきですか、それともオンラインで買うべきですか？",
+    "en": "Should I get the office supplies at the store or online?",
+    "scramble": "online / the / I / at / the / get / supplies / store / Should / office / or"
+  },
+  {
+    "jp": "タブレットでメールアカウントにアクセスするにはどうすればいいですか？",
+    "en": "How do I access my e-mail account on my tablet?",
+    "scramble": "access / on / do / account / e-mail / tablet / my / my / I / How"
+  },
+  {
+    "jp": "今日は1時に会議があります。",
+    "en": "I have a meeting at one o'clock today.",
+    "scramble": "today / o'clock / I / meeting / have / a / at / one"
+  },
+  {
+    "jp": "どのセキュリティソフトがおすすめですか？",
+    "en": "What security software do you recommend?",
+    "scramble": "recommend / software / What / security / you / do"
+  },
+  {
+    "jp": "ファイルフォルダーを追加で注文しませんでしたか？",
+    "en": "Didn't you order more file folders?",
+    "scramble": "you / folders / file / Didn't / order / more"
+  },
+  {
+    "jp": "水曜日の私のシフトを代わってもらえますか？",
+    "en": "Can you cover my shift on Wednesday?",
+    "scramble": "on / Can / Wednesday / cover / my / you / shift"
+  },
+  {
+    "jp": "ロッカーの鍵をフロントに預けるのを忘れないでください。",
+    "en": "Remember to leave your locker key at the front desk.",
+    "scramble": "desk / Remember / the / at / front / key / leave / your / locker / to"
+  },
+  {
+    "jp": "フィットネスクラスを受けますか、それともプールを使うだけですか？",
+    "en": "Do you want to take a fitness class or just use the pool?",
+    "scramble": "want / take / the / fitness / to / or / Do / pool / use / a / class / just / you"
+  },
+  {
+    "jp": "緑茶のコマーシャルはほぼ完成していますよね？",
+    "en": "The green tea commercial is almost finished, isn't it?",
+    "scramble": "The / isn't / it / is / finished / green / commercial / almost / tea"
+  },
+  {
+    "jp": "顧客との夕食会は誰が企画していますか？",
+    "en": "Who's planning the client dinner?",
+    "scramble": "planning / Who's / dinner / client / the"
+  },
+  {
+    "jp": "電車はなぜこんなに遅れているのですか？",
+    "en": "Why is the train so late?",
+    "scramble": "so / the / Why / late / is / train"
   }
 ]
