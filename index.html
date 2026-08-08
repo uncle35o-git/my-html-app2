@@ -300,7 +300,7 @@ let activeQuizData = [];
 let quizQueue = [];       // 「まだ出題していない問題」のシャッフル済みキュー（要素は元配列のインデックス）
 let roundNumber = 0;      // 全問1周ごとにカウントアップ
 let englishRate = appState.settings.englishRate;
-const japaneseRate = 0.7;
+const japaneseRate = 1.0;
 let autoMode = false;
 let autoTimer = null;
 let countdownInterval = null;
@@ -455,6 +455,8 @@ function speakJapanese(text) {
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'ja-JP';
     utterance.rate = japaneseRate;
+    utterance.pitch = 1.2;
+    utterance.volume = 1.0;
     const voices = window.speechSynthesis.getVoices();
     const matched = voices.find(v => v.lang === 'ja-JP' || v.lang === 'ja');
     if (matched) utterance.voice = matched;

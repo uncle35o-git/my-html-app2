@@ -116,8 +116,8 @@
   },
   {
     "jp": "先週末のジャズフェスティバルを本当に楽しみました。",
-    "en": "I really enjoyed the j azz festival last weekend.",
-    "scramble": "I / j / weekend / last / enjoyed / really / the / azz / festival"
+    "en": "I really enjoyed the jazz festival last weekend.",
+    "scramble": "I / jazz / weekend / last / enjoyed / really / the / festival"
   },
   {
     "jp": "クライアントはなぜそんなに早く来ているのですか？",
@@ -221,8 +221,8 @@
   },
   {
     "jp": "クリーニングサービスは来週の金曜日の確認をしましたか？",
-    "en": "Did the cleaning service co nfirm for next Friday?",
-    "scramble": "next / for / cleaning / co / Friday / Did / service / nfirm / the"
+    "en": "Did the cleaning service confirm for next Friday?",
+    "scramble": "next / for / cleaning / confirm / Friday / Did / service / the"
   },
   {
     "jp": "インターンシップの学生たちはこのプロジェクトで働くことになっていなかったのですか？",
@@ -236,8 +236,8 @@
   },
   {
     "jp": "その企業はオフィスビルを所有していますか、それとも賃借していますか？",
-    "en": "Does the company ow n or rent its office building?",
-    "scramble": "rent / or / its / Does / company / office / the / ow / n / building"
+    "en": "Does the company own or rent its office building?",
+    "scramble": "rent / or / its / Does / company / office / the / own / building"
   },
   {
     "jp": "この求職者は優れた金銭管理スキルを持っていますか？",
@@ -266,7 +266,7 @@
   },
   {
     "jp": "あなたのチケットはダブリン行きになっています。",
-    "en": "Your ticket says you're going to Dublin .",
+    "en": "Your ticket says you're going to Dublin.",
     "scramble": "you're / says / to / Dublin / Your / ticket / going"
   },
   {
@@ -396,13 +396,13 @@
   },
   {
     "jp": "なぜまだ私たちの注文した物資が届いていないのか？",
-    "en": "Why hasn't o ur supply order come in yet?",
-    "scramble": "come / supply / hasn't / yet / Why / order / ur / o / in"
+    "en": "Why hasn't our supply order come in yet?",
+    "scramble": "come / supply / hasn't / yet / Why / order / our / in"
   },
   {
     "jp": "ソヒの最後の日のためにパーティーを企画してもらえますか？",
     "en": "Can you organize a party for So-Hee's last day?",
-    "scramble": "organize / day / last / party / a /  / you / Can / So-Hee's / for"
+    "scramble": "organize / day / last / party / a / you / Can / So-Hee's / for"
   },
   {
     "jp": "ファーマーズマーケットはいつシーズンに開きますか？",
@@ -731,7 +731,7 @@
   },
   {
     "jp": "もし技術的な問題が発生したら、私に連絡していただけますか？",
-    "en": "Will you contact me if you have any more tec hnical difficulties?",
+    "en": "Will you contact me if you have any more technical difficulties?",
     "scramble": "you / more / Will / you / contact / have / if / hnical / me / tec / difficulties / any"
   },
   {
