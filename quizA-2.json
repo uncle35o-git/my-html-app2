@@ -1,0 +1,627 @@
+[
+  {
+    "jp": "ウェブサイトにドロップダウンメニューを追加してもらえますか？",
+    "en": "Can you add a drop-down menu to the Web site?",
+    "scramble": "to / you / drop-down / menu / add / site / Can / the / a / Web"
+  },
+  {
+    "jp": "あなたのレストランは配達サービスを提供していますか？",
+    "en": "Does your restaurant offer delivery service?",
+    "scramble": "service / delivery / restaurant / offer / Does / your"
+  },
+  {
+    "jp": "レポートの完成を誰に割り当てましたか？",
+    "en": "Who has been assigned to complete the report?",
+    "scramble": "assigned / has / the / complete / to / Who / report / been"
+  },
+  {
+    "jp": "私のセキュリティバッジが機能しないのはなぜですか？",
+    "en": "Why isn’t my security badge working?",
+    "scramble": "security / my / isn’t / badge / Why / working"
+  },
+  {
+    "jp": "マリアのオフィスはどれですか？",
+    "en": "Which office is Maria’s?",
+    "scramble": "Maria’s / Which / is / office"
+  },
+  {
+    "jp": "アート・ツアーに行くべきか、それともフード・ツアーに行くべきか？",
+    "en": "Should I go on the art tour or the food tour?",
+    "scramble": "the / on / Should / I / go / or / the / tour / art / food / tour"
+  },
+  {
+    "jp": "コンピューターの更新はいつから有効になりますか？",
+    "en": "When does the computer update go into effect?",
+    "scramble": "computer / When / the / into / update / effect / does / go"
+  },
+  {
+    "jp": "今四半期の売上数字を持っているのは誰ですか？",
+    "en": "Who has the sales figures for this quarter?",
+    "scramble": "for / has / sales / this / the / quarter / figures / Who"
+  },
+  {
+    "jp": "製品の発売は金曜日に予定されています。",
+    "en": "The product launch is scheduled for Friday.",
+    "scramble": "The / product / scheduled / is / launch / for / Friday"
+  },
+  {
+    "jp": "一番近い薬局はどこですか？",
+    "en": "Where’s the nearest pharmacy?",
+    "scramble": "pharmacy / Where’s / nearest / the"
+  },
+  {
+    "jp": "プレゼンテーションに他に何を含めるべきでしょうか？",
+    "en": "What else should we include in the presentation?",
+    "scramble": "presentation / the / we / else / include / What / should / in"
+  },
+  {
+    "jp": "工場の床はどのくらいの頻度で磨かれますか？",
+    "en": "How often are the factory floors waxed?",
+    "scramble": "How / often / floors / factory / are / waxed / the"
+  },
+  {
+    "jp": "私たちと一緒に会議に行きませんか？",
+    "en": "Would you like to ride with us to the conference?",
+    "scramble": "to / us / ride / like / with / conference / to / Would / the / you"
+  },
+  {
+    "jp": "ヘレンが今朝遅刻しているのはなぜですか？",
+    "en": "Why is Helen late this morning?",
+    "scramble": "Why / late / morning / is / this / Helen"
+  },
+  {
+    "jp": "現金でお支払いになりますか、それともクレジットカードをご利用になりますか？",
+    "en": "Would you like to pay cash or use a credit card?",
+    "scramble": "use / like / to / cash / or / Would / you / credit / card / a / pay"
+  },
+  {
+    "jp": "ホッチキスを貸してもらえますか？",
+    "en": "Could you lend me your stapler?",
+    "scramble": "you / lend / me / your / Could / stapler"
+  },
+  {
+    "jp": "ロゴデザインをどのように変更すべきですか？",
+    "en": "How should we change our logo design?",
+    "scramble": "design / change / logo / should / How / we / our"
+  },
+  {
+    "jp": "エアコンに何か問題がありますか？",
+    "en": "Is there something wrong with the air conditioner?",
+    "scramble": "something / the / conditioner / wrong / air / Is / there / with"
+  },
+  {
+    "jp": "技術者がプリンターを見に来てくれましたか？",
+    "en": "Has the technician been by to look at the printer?",
+    "scramble": "look / the / Has / technician / at / to / the / printer / by / been"
+  },
+  {
+    "jp": "新しい部門の監督者は誰ですか？",
+    "en": "Who’s the new department supervisor?",
+    "scramble": "the / supervisor / Who’s / new / department"
+  },
+  {
+    "jp": "そのビデオ会議での研修は役に立ちましたね、そうですね？",
+    "en": "The videoconference training was useful, wasn’t it?",
+    "scramble": "wasn’t / The / useful / training / was / videoconference / it"
+  },
+  {
+    "jp": "今日の会議が早く終わったら素敵じゃないでしょうか？",
+    "en": "Wouldn’t it be nice if today’s meeting ended early?",
+    "scramble": "be / Wouldn’t / early / ended / nice / today’s / if / it / meeting"
+  },
+  {
+    "jp": "あなたは医療クリニックの新しい場所に行ったことがありますか?",
+    "en": "Have you been to the medical clinic’s new location?",
+    "scramble": "the / new / medical / to / Have / location / been / you / clinic’s"
+  },
+  {
+    "jp": "そのレポートに何を含める予定ですか？",
+    "en": "What are you going to include in the report?",
+    "scramble": "going / include / are / in / report / you / the / What / to"
+  },
+  {
+    "jp": "次のコンテナ船はいつ港から出港しますか？",
+    "en": "When will the next container ship set sail from the port?",
+    "scramble": "container / the / port / will / ship / the / from / sail / When / set / next"
+  },
+  {
+    "jp": "その企業の看板はどこに設置されるのか。",
+    "en": "Where will the company billboard be located?",
+    "scramble": "the / be / located / will / Where / billboard / company"
+  },
+  {
+    "jp": "今日出かける前にそのセールスレポートを送ってもらえますか?",
+    "en": "Could you send me that sales report before you leave today?",
+    "scramble": "today / leave / report / me / Could / sales / you / before / that / you / send"
+  },
+  {
+    "jp": "誰かメールカートを動かしましたか？",
+    "en": "Did someone move the mail cart?",
+    "scramble": "cart / mail / Did / move / the / someone"
+  },
+  {
+    "jp": "見本市はどうでしたか？",
+    "en": "How was the trade show?",
+    "scramble": "was / the / show / How / trade"
+  },
+  {
+    "jp": "エリザベスは今朝なぜ遅刻したのですか？",
+    "en": "Why was Elizabeth late this morning?",
+    "scramble": "morning / was / Elizabeth / this / Why / late"
+  },
+  {
+    "jp": "理学療法センター（またはリハビリテーションセンター）はどこにありますか？",
+    "en": "Where is the physical rehabilitation center?",
+    "scramble": "Where / rehabilitation / physical / the / center / is"
+  },
+  {
+    "jp": "会議でメモを取っていただけますか？",
+    "en": "Would you please take notes at the meeting?",
+    "scramble": "take / you / at / notes / please / Would / the / meeting"
+  },
+  {
+    "jp": "高速道路を使うべきか、町を通って運転するべきか?",
+    "en": "Should we take the highway or drive through town?",
+    "scramble": "the / highway / we / take / or / town / drive / through / Should"
+  },
+  {
+    "jp": "今日はクライアントに電話をする必要がありませんか？",
+    "en": "Don’t you need to call the client today?",
+    "scramble": "today / to / Don’t / need / client / you / call / the"
+  },
+  {
+    "jp": "新しい営業戦略を考え出す必要があります。",
+    "en": "We need to come up with a new sales strategy.",
+    "scramble": "to / with / new / strategy / a / need / sales / come / up / We"
+  },
+  {
+    "jp": "あなたの机を取り替えるべきではないですか？\n\nまたは\n\n机を取り替えた方がいいのではありませんか？",
+    "en": "Shouldn’t you replace your desk?",
+    "scramble": "replace / Shouldn’t / you / desk / your"
+  },
+  {
+    "jp": "営業チームがオフィスを移転した理由は何ですか？",
+    "en": "Why did the sales team change offices?",
+    "scramble": "change / team / Why / the / sales / offices / did"
+  },
+  {
+    "jp": "屋根の修理について見積もりをいつもらえますか？",
+    "en": "When can you give me a cost estimate for the roof repairs?",
+    "scramble": "roof / cost / estimate / me / the / a / you / for / can / give / repairs / When"
+  },
+  {
+    "jp": "この四半期にコストを削減する必要がありますか？",
+    "en": "Do we need to cut costs this quarter?",
+    "scramble": "we / Do / costs / need / quarter / to / cut / this"
+  },
+  {
+    "jp": "あなたはふつうどのレストランに行きますか？",
+    "en": "Which restaurant do you usually go to?",
+    "scramble": "to / restaurant / do / you / go / Which / usually"
+  },
+  {
+    "jp": "財務委員会の会議はいつですか？",
+    "en": "When is the finance committee meeting?",
+    "scramble": "committee / the / is / finance / meeting / When"
+  },
+  {
+    "jp": "23日の週から仕事を始められますか?",
+    "en": "Can you start work the week of the twenty-third?",
+    "scramble": "you / the / the / twenty-third / Can / of / work / start / week"
+  },
+  {
+    "jp": "組立機械は順調に稼働していますね。",
+    "en": "The assembly machines are running well, aren’t they?",
+    "scramble": "running / they / assembly / well / machines / aren’t / The / are"
+  },
+  {
+    "jp": "部門の予算はどのくらい増加しましたか？",
+    "en": "How much did the department budget increase?",
+    "scramble": "How / increase / budget / the / department / did / much"
+  },
+  {
+    "jp": "あなたのアパートメント団地を見学したいのですが。",
+    "en": "I’d like to tour your apartment complex.",
+    "scramble": "like / I’d / complex / your / tour / apartment / to"
+  },
+  {
+    "jp": "チームミーティングで新しいロゴデザインを発表するのは誰ですか？",
+    "en": "Who’s presenting the new logo design at the team meeting?",
+    "scramble": "meeting / the / the / design / new / presenting / team / at / Who’s / logo"
+  },
+  {
+    "jp": "私たちと一緒にワークショップに来ないのですか？",
+    "en": "Aren’t you coming to the workshop with us?",
+    "scramble": "with / Aren’t / the / to / you / workshop / us / coming"
+  },
+  {
+    "jp": "オフィススペースをリースするかどうか決定するのに、どのくらいの期間がありますか？",
+    "en": "How long do I have to decide if I want to lease the office space?",
+    "scramble": "want / long / space / decide / office / I / the / do / How / to / to / lease / I / if / have"
+  },
+  {
+    "jp": "今日はクライアントとの電話対応を手伝ってもらえますか、それとも早く帰りますか?",
+    "en": "Can you help me with some client calls, or are you leaving early today?",
+    "scramble": "some / are / today / you / help / Can / early / calls / me / with / leaving / client / you / or"
+  },
+  {
+    "jp": "スタッフミーティングでのデビッドのプレゼンテーションは良かったですか？",
+    "en": "Did you like David’s presentation at the staff meeting?",
+    "scramble": "you / like / staff / David’s / meeting / the / at / Did / presentation"
+  },
+  {
+    "jp": "あなたの仕事場に最も近いバス停はどこですか？",
+    "en": "Which bus stop is closest to your job?",
+    "scramble": "closest / to / bus / is / job / Which / stop / your"
+  },
+  {
+    "jp": "どのような当座預金口座をご希望ですか？",
+    "en": "What kind of checking account would you like?",
+    "scramble": "checking / like / account / would / of / kind / What / you"
+  },
+  {
+    "jp": "ネックレスをかけて保管していますか、それとも宝石箱に保管していますか？",
+    "en": "Do you hang up your necklaces or store them in a jewelry box?",
+    "scramble": "hang / necklaces / them / box / Do / you / up / store / your / in / jewelry / or / a"
+  },
+  {
+    "jp": "ホテルの予約をしましたか？",
+    "en": "Did you make a hotel reservation?",
+    "scramble": "make / hotel / you / Did / a / reservation"
+  },
+  {
+    "jp": "タイヤはなぜ交換しましたか？",
+    "en": "Why did you replace the tires?",
+    "scramble": "tires / you / the / did / replace / Why"
+  },
+  {
+    "jp": "農民市場はいつオープンしますか？",
+    "en": "When will the farmers' market open?",
+    "scramble": "farmers' / open / the / When / will / market"
+  },
+  {
+    "jp": "エッジウッドの見本市に車で行きますか？",
+    "en": "Are you driving to the Edgewood trade show?",
+    "scramble": "Are / trade / the / show / Edgewood / to / you / driving"
+  },
+  {
+    "jp": "ロビーでゲストを出迎えているのは誰ですか？",
+    "en": "Who's welcoming the guests in the lobby?",
+    "scramble": "lobby / welcoming / the / Who's / the / in / guests"
+  },
+  {
+    "jp": "台所のリノベーションは月末までに完了しますか？",
+    "en": "Will the kitchen renovations be done by the end of the month?",
+    "scramble": "end / the / month / by / be / of / the / kitchen / the / renovations / done / Will"
+  },
+  {
+    "jp": "あなたは市営バスの時間表を確認しなかったのですか？",
+    "en": "Didn't you check the city bus schedule?",
+    "scramble": "the / check / schedule / bus / city / Didn't / you"
+  },
+  {
+    "jp": "食料配達サービスをどのようにマーケティングすべきですか？",
+    "en": "How should we market our food delivery service?",
+    "scramble": "should / food / our / How / service / we / market / delivery"
+  },
+  {
+    "jp": "中小企業向けのセミナーには参加していますか？",
+    "en": "Are you attending any of the seminars for small businesses?",
+    "scramble": "any / you / attending / the / Are / for / of / seminars / businesses / small"
+  },
+  {
+    "jp": "出張の経費報告書を見てもよろしいでしょうか？",
+    "en": "May I see the expense report from your business trip?",
+    "scramble": "your / trip / see / report / business / May / expense / the / I / from"
+  },
+  {
+    "jp": "取締役会は3月まで延期されました。",
+    "en": "The board meeting has been postponed until March.",
+    "scramble": "until / postponed / been / meeting / has / March / The / board"
+  },
+  {
+    "jp": "今日のオリエンテーションは誰が進行していますか？",
+    "en": "Who's leading the orientation today?",
+    "scramble": "today / orientation / the / leading / Who's"
+  },
+  {
+    "jp": "あなたの前でプレゼンテーションの練習をしてもいいですか？",
+    "en": "Could I practice my presentation with you?",
+    "scramble": "with / presentation / practice / Could / you / my / I"
+  },
+  {
+    "jp": "カルメンのサンドウィッチショップのレビューを読みましたか？",
+    "en": "Have you read the review of Carmen's Sandwich Shop?",
+    "scramble": "read / Shop / Have / Sandwich / of / Carmen's / you / the / review"
+  },
+  {
+    "jp": "オンラインウェビナーに参加するには遅すぎますよね？",
+    "en": "It's too late to join the online webinar, right?",
+    "scramble": "join / too / online / to / right / late / It's / webinar / the"
+  },
+  {
+    "jp": "パンはどこにありますか？",
+    "en": "Do you know where I can find the bread?",
+    "scramble": "know / the / you / where / I / can / Do / bread / find"
+  },
+  {
+    "jp": "ジュリーはなぜ私たちのメモを営業部門に送ったのですか？",
+    "en": "Why did Julie send our memo to the sales department?",
+    "scramble": "our / the / did / Julie / Why / department / to / memo / send / sales"
+  },
+  {
+    "jp": "今日はどのトレーニングセッションに参加しましたか？",
+    "en": "Which training session did you attend today?",
+    "scramble": "attend / session / did / you / training / Which / today"
+  },
+  {
+    "jp": "運用マネージャーのオフィスはどこにありますか？",
+    "en": "Where is the operations manager's office?",
+    "scramble": "office / Where / is / operations / the / manager's"
+  },
+  {
+    "jp": "実験の準備として機器をセットアップしませんか？",
+    "en": "Why don't we set up the equipment for the experiment?",
+    "scramble": "don't / experiment / the / up / for / we / the / equipment / Why / set"
+  },
+  {
+    "jp": "4番線の電車はウィリアムズバーグに行きますか？",
+    "en": "Is the train on platform four going to Williamsburg?",
+    "scramble": "to / on / Williamsburg / going / Is / the / platform / train / four"
+  },
+  {
+    "jp": "今年はまだ有給休暇を1日も使っていません。",
+    "en": "You haven't used any vacation days so far this year.",
+    "scramble": "so / far / this / vacation / haven't / used / days / You / year / any"
+  },
+  {
+    "jp": "新入社員向けのオリエンテーションを誰が担当しますか？",
+    "en": "Who’ll be running the new-employee orientation?",
+    "scramble": "Who’ll / the / be / orientation / running / new-employee"
+  },
+  {
+    "jp": "まだ休憩を取っていないのはなぜですか？",
+    "en": "Why haven’t you taken a break yet?",
+    "scramble": "yet / haven’t / a / taken / break / Why / you"
+  },
+  {
+    "jp": "あなたは通常いつ昼食を食べますか？",
+    "en": "When do you usually eat lunch?",
+    "scramble": "you / usually / eat / lunch / When / do"
+  },
+  {
+    "jp": "基調演説はホテルで行われる予定ではありませんか？",
+    "en": "Isn’t the keynote speech taking place at the hotel?",
+    "scramble": "hotel / taking / place / at / keynote / speech / the / Isn’t / the"
+  },
+  {
+    "jp": "そのショーのチケットを手に入れることができたのね。",
+    "en": "You managed to get tickets for the show, didn’t you?",
+    "scramble": "to / show / for / managed / the / tickets / didn’t / get / You / you"
+  },
+  {
+    "jp": "これはロンドン行きの電車ですか？",
+    "en": "Is this the train to London?",
+    "scramble": "Is / to / train / this / the / London"
+  },
+  {
+    "jp": "家具をどかすのを手伝ってくれませんか？",
+    "en": "Can you help me move the furniture out of the way?",
+    "scramble": "the / move / me / help / the / way / of / Can / furniture / out / you"
+  },
+  {
+    "jp": "リーダーシップワークショップに登録しましたか？",
+    "en": "Did you register for the leadership workshop?",
+    "scramble": "the / Did / for / register / leadership / you / workshop"
+  },
+  {
+    "jp": "今日、あなたは何時に銀行に行くのですか？",
+    "en": "What time are you going to the bank today?",
+    "scramble": "What / bank / going / are / you / to / the / today / time"
+  },
+  {
+    "jp": "演劇を見に行くべきか、それとも音楽会に行くべきか？",
+    "en": "Should we see a play or go to a concert?",
+    "scramble": "play / concert / a / we / a / or / Should / go / to / see"
+  },
+  {
+    "jp": "このに会社で働き始めたのはいつですか？",
+    "en": "When did you begin working at this firm?",
+    "scramble": "begin / firm / When / did / at / working / this / you"
+  },
+  {
+    "jp": "水曜日にチームミーティングを開催してはいかがですか？",
+    "en": "Why don’t you hold the team meeting on Wednesday?",
+    "scramble": "Wednesday / Why / on / hold / meeting / don’t / you / the / team"
+  },
+  {
+    "jp": "その原稿の編集をいつ終わらせますか？",
+    "en": "When will you finish editing the manuscript?",
+    "scramble": "the / you / manuscript / When / will / finish / editing"
+  },
+  {
+    "jp": "プレゼンテーションは何部用意すればいいですか？",
+    "en": "How many copies of the presentation should we prepare?",
+    "scramble": "should / prepare / presentation / many / the / copies / of / we / How"
+  },
+  {
+    "jp": "昼休み時間のヨガクラスに行ってきます。",
+    "en": "I’m headed to the lunchtime yoga class in the break room.",
+    "scramble": "the / class / room / yoga / break / in / to / I’m / lunchtime / headed / the"
+  },
+  {
+    "jp": "眺めの良いオフィスをお探しですか？",
+    "en": "Are you looking for an office with a view?",
+    "scramble": "you / with / view / office / for / Are / an / a / looking"
+  },
+  {
+    "jp": "あなたの通勤時間はどのくらいですか？",
+    "en": "How long does it take you to commute to work?",
+    "scramble": "you / to / does / to / long / it / work / take / commute / How"
+  },
+  {
+    "jp": "屋外のフェンスをメンテナンスクルーはいつ交換しますか？",
+    "en": "When will the maintenance crew replace the outdoor fence?",
+    "scramble": "When / crew / outdoor / maintenance / the / fence / replace / the / will"
+  },
+  {
+    "jp": "対面での会議をスケジュールするべきか、それともオンラインで行うべきか、どちらが良いのでしょうか？",
+    "en": "Is it better to schedule an in-person meeting or to go online?",
+    "scramble": "it / or / meeting / schedule / to / online / in-person / to / Is / an / better / go"
+  },
+  {
+    "jp": "当社のロゴは本当に古くなっています。",
+    "en": "Our company logo is really outdated.",
+    "scramble": "logo / really / Our / is / outdated / company"
+  },
+  {
+    "jp": "今日の出荷がなぜ遅れるのか理解できません。",
+    "en": "I don’t understand why today’s shipment will be late.",
+    "scramble": "shipment / understand / be / I / will / late / why / today’s / don’t"
+  },
+  {
+    "jp": "財務報告書は準備できていますか？",
+    "en": "Is the financial report ready?",
+    "scramble": "the / ready / Is / report / financial"
+  },
+  {
+    "jp": "年間検診をスケジュール設定しましょうか？",
+    "en": "Would you like me to schedule your annual checkup?",
+    "scramble": "me / schedule / to / annual / you / like / checkup / Would / your"
+  },
+  {
+    "jp": "このカメラはどう使うのですか？",
+    "en": "How do I use this camera?",
+    "scramble": "camera / this / do / I / use / How"
+  },
+  {
+    "jp": "この空港の荷物ロッカーはどこにありますか？",
+    "en": "Where are the storage lockers located in this airport?",
+    "scramble": "in / lockers / Where / storage / this / located / are / the / airport"
+  },
+  {
+    "jp": "窓の注文はいつ出すべきですか？",
+    "en": "When should I place the order for the windows?",
+    "scramble": "the / the / windows / place / I / When / for / should / order"
+  },
+  {
+    "jp": "金曜日のトレーニングセッションに誰が来ますか？",
+    "en": "Who’s coming to the training session on Friday?",
+    "scramble": "Friday / session / training / Who’s / coming / on / to / the"
+  },
+  {
+    "jp": "今週はどのビジネス会議が開催されていますか？",
+    "en": "Which business meeting is being held this week?",
+    "scramble": "week / held / meeting / being / Which / is / this / business"
+  },
+  {
+    "jp": "ジーグラー女史はスタッフをもっと雇う予定ですか？",
+    "en": "Is Ms. Ziegler planning to hire more staff?",
+    "scramble": "Ziegler / planning / more / staff / hire / to / Ms / Is"
+  },
+  {
+    "jp": "なぜ製品マニュアルはそんなに長いのですか？",
+    "en": "Why ’s the product manual so long?",
+    "scramble": "Why / the / ’s / long / so / product / manual"
+  },
+  {
+    "jp": "あなたは新しい受付係を雇いましたね？",
+    "en": "You hired a new receptionist, didn’t you?",
+    "scramble": "receptionist / a / You / you / didn’t / new / hired"
+  },
+  {
+    "jp": "なぜそんなに早く会議から戻ってきたのですか？",
+    "en": "Why are you back from your meeting so soon?",
+    "scramble": "Why / meeting / from / you / your / back / so / soon / are"
+  },
+  {
+    "jp": "その飛行機の運賃は高いですね。",
+    "en": "The flight costs a lot, doesn’t it?",
+    "scramble": "costs / it / doesn’t / The / lot / flight / a"
+  },
+  {
+    "jp": "今午後、マネージャーたちはどこへ行くのですか？",
+    "en": "Where are the managers going this afternoon?",
+    "scramble": "are / managers / this / going / afternoon / the / Where"
+  },
+  {
+    "jp": "ここで働くことをいつ決めましたか？",
+    "en": "When did you decide to work here?",
+    "scramble": "here / did / to / you / decide / When / work"
+  },
+  {
+    "jp": "私たちとお昼ご飯を一緒に食べに来ませんか？",
+    "en": "Won’t you be coming to lunch with us?",
+    "scramble": "coming / be / us / to / lunch / Won’t / you / with"
+  },
+  {
+    "jp": "ハン氏があなたがそのファイルを見つけるのを手伝うことができます。",
+    "en": "Mr. Hang can help you find that file.",
+    "scramble": "Mr / that / you / help / Hang / file / can / find"
+  },
+  {
+    "jp": "新しいコピー機をどのように使いますか？",
+    "en": "How do you use the new copier?",
+    "scramble": "use / you / copier / How / the / new / do"
+  },
+  {
+    "jp": "入力されたアドレスが正しくありません。",
+    "en": "The address you entered is incorrect.",
+    "scramble": "you / incorrect / is / entered / address / The"
+  },
+  {
+    "jp": "会社のサッカーチームにはどうやって登録しますか？",
+    "en": "How do I sign up for the company soccer team?",
+    "scramble": "up / soccer / company / the / sign / for / do / How / team / I"
+  },
+  {
+    "jp": "受付デスクはドアにもっと近い方がいいのではないですか？",
+    "en": "Shouldn’t the reception desk be closer to the door?",
+    "scramble": "to / the / be / the / door / desk / Shouldn’t / closer / reception"
+  },
+  {
+    "jp": "クライアントが要求した内容について話しましょう。",
+    "en": "Let’s talk about what the clients requested.",
+    "scramble": "what / the / about / talk / clients / Let’s / requested"
+  },
+  {
+    "jp": "すみません、イチゴジャムはもう5番通路にはありません。",
+    "en": "Excuse me, the strawberry jam isn’t in aisle five anymore.",
+    "scramble": "jam / aisle / me / in / Excuse / isn’t / strawberry / five / the / anymore"
+  },
+  {
+    "jp": "今午後、聴衆と画面を共有していただけますか？",
+    "en": "Could you share your screen with the audience this afternoon?",
+    "scramble": "the / you / audience / afternoon / share / your / Could / screen / this / with"
+  },
+  {
+    "jp": "四半期売上報告書はどこに提出すればよいですか？",
+    "en": "Where should I file the quarterly sales report?",
+    "scramble": "the / should / sales / report / I / Where / quarterly / file"
+  },
+  {
+    "jp": "アイスクリームとケーキのどちらがいいですか？",
+    "en": "Would you like ice cream or cake?",
+    "scramble": "you / ice / like / or / Would / cake / cream"
+  },
+  {
+    "jp": "階段がどこにあるか知っていますか？",
+    "en": "Do you know where the stairway is?",
+    "scramble": "is / know / where / you / the / Do / stairway"
+  },
+  {
+    "jp": "歴史地区と金融地区のどちらにレストランをオープンすべきでしょうか？",
+    "en": "Should we open our restaurant in the historic district or the financial district?",
+    "scramble": "or / financial / we / our / the / district / Should / historic / open / restaurant / the / in / district"
+  },
+  {
+    "jp": "市場は混雑していないのでしょうか？\n\nまたは\n\n市場は混雑しているのではないでしょうか？",
+    "en": "Isn't the market going to be crowded?",
+    "scramble": "Isn't / the / market / going / to / crowded / be"
+  },
+  {
+    "jp": "このご近所に引っ越してくるのですか？",
+    "en": "Are you moving into this neighborhood?",
+    "scramble": "you / into / Are / this / neighborhood / moving"
+  }
+]

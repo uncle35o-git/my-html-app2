@@ -1,0 +1,849 @@
+[
+
+  {
+    "jp": "男性がコピー機の上部を閉じている。",
+    "en": "A man is closing the top of a copy machine.",
+    "scramble": "the / of / top / man / closing / A / machine / a / copy / is"
+  },
+  {
+    "jp": "男性がタイルを取り付けている。",
+    "en": "A man is installing some tiles.",
+    "scramble": "installing / is / A / tiles / man / some"
+  },
+  {
+    "jp": "女性が男性に紙を渡している。",
+    "en": "A woman is handing some paper to a man.",
+    "scramble": "woman / to / man / handing / a / is / paper / some / A"
+  },
+  {
+    "jp": "女性がセーターを着ている。",
+    "en": "A woman is putting on a sweater.",
+    "scramble": "is / a / putting / A / on / sweater / woman"
+  },
+  {
+    "jp": "彼女は床を掃いています。",
+    "en": "She's sweeping the floor.",
+    "scramble": "She's / floor / sweeping / the"
+  },
+  {
+    "jp": "彼女は椅子を積み重ねています。",
+    "en": "She's stacking some chairs.",
+    "scramble": "chairs / stacking / some / She's"
+  },
+  {
+    "jp": "彼女はメニューを手に取っている。",
+    "en": "She's picking up a menu.",
+    "scramble": "picking / up / a / She's / menu"
+  },
+  {
+    "jp": "彼女は何人かの顧客に対応している。",
+    "en": "She's serving some customers.",
+    "scramble": "serving / She's / some / customers"
+  },
+  {
+    "jp": "芝生が刈られている。",
+    "en": "A lawn is being mowed.",
+    "scramble": "A / lawn / is / being / mowed"
+  },
+  {
+    "jp": "木が切り倒されている。",
+    "en": "A tree is being cut down.",
+    "scramble": "tree / down / A / being / cut / is"
+  },
+  {
+    "jp": "男たちは土をシャベルで掘っている。",
+    "en": "The men are shoveling some soil.",
+    "scramble": "some / The / shoveling / men / soil / are"
+  },
+  {
+    "jp": "男性たちが車を運転しています。",
+    "en": "The men are driving a vehicle.",
+    "scramble": "a / The / are / men / vehicle / driving"
+  },
+  {
+    "jp": "ベンチが交換されている。",
+    "en": "A bench is being replaced.",
+    "scramble": "bench / being / A / replaced / is"
+  },
+  {
+    "jp": "街灯が修理されている。",
+    "en": "A lamppost is being repaired.",
+    "scramble": "repaired / lamppost / is / being / A"
+  },
+  {
+    "jp": "いくつかのレンガが積み重ねられている。",
+    "en": "Some bricks are stacked in a pile.",
+    "scramble": "in / pile / a / are / stacked / bricks / Some"
+  },
+  {
+    "jp": "いくつかのボートが水に浮かんでいます。",
+    "en": "Some boats are floating in the water.",
+    "scramble": "boats / water / are / Some / floating / the / in"
+  },
+  {
+    "jp": "トレイの上に何らかの食べ物が運ばれている。",
+    "en": "Some food is being carried on a tray.",
+    "scramble": "Some / a / being / is / food / carried / tray / on"
+  },
+  {
+    "jp": "ウェイターがメモ帳に何かを書いている。",
+    "en": "A waiter is writin g on a notepad.",
+    "scramble": "g / notepad / on / A / a / is / waiter / writin"
+  },
+  {
+    "jp": "ウェイターが何かの飲み物を出しています。",
+    "en": "A waiter is serving some beverages.",
+    "scramble": "is / waiter / A / some / serving / beverages"
+  },
+  {
+    "jp": "何人かの客がウェイターにメニューを渡している。",
+    "en": "Some customers are giving their menus to a waiter.",
+    "scramble": "to / menus / Some / their / are / waiter / customers / giving / a"
+  },
+  {
+    "jp": "その女性ははしごを使っています。",
+    "en": "The woman is using a ladder.",
+    "scramble": "using / ladder / The / woman / a / is"
+  },
+  {
+    "jp": "その女性は容器を持ち上げている。",
+    "en": "The woman is lifting a container.",
+    "scramble": "a / The / container / woman / lifting / is"
+  },
+  {
+    "jp": "女性がカートを押しています。",
+    "en": "The woman is pushing a cart.",
+    "scramble": "a / The / pushing / is / cart / woman"
+  },
+  {
+    "jp": "その女性はいくつかの工具を箱に入れている。",
+    "en": "The woman is placing some tools in a box.",
+    "scramble": "tools / box / some / placing / in / The / a / woman / is"
+  },
+
+  {
+    "jp": "彼女は公園で走っています。",
+    "en": "She's running in a park.",
+    "scramble": "She's / park / a / running / in"
+  },
+  {
+    "jp": "彼女は靴を履いている。",
+    "en": "She's putting on boots.",
+    "scramble": "putting / on / She's / boots"
+  },
+  {
+    "jp": "彼女は一輪車を押している。",
+    "en": "She's pushing a wheelbarrow.",
+    "scramble": "pushing / wheelbarrow / a / She's"
+  },
+  {
+    "jp": "彼女はバケツに水を入れている。",
+    "en": "She's filling a bucket.",
+    "scramble": "bucket / filling / She's / a"
+  },
+  {
+    "jp": "彼はバッグから物を取り出している。",
+    "en": "He’ s removing an item from a bag.",
+    "scramble": "item / removing / He’ / from / an / bag / s / a"
+  },
+  {
+    "jp": "彼は食べ物のトレーを運んでいます。",
+    "en": "He's carrying a tray of food.",
+    "scramble": "carrying / of / tray / He's / a / food"
+  },
+  {
+    "jp": "彼はレジ係にお金を渡している。",
+    "en": "He's giving money to a cashier.",
+    "scramble": "cashier / He's / to / a / money / giving"
+  },
+  {
+    "jp": "彼は水のボトルから飲んでいます。",
+    "en": "He's drinking from a bottle of water.",
+    "scramble": "of / a / from / bottle / He's / drinking / water"
+  },
+  {
+    "jp": "ロッカーが廊下に一列に並んでいる。",
+    "en": "Lock ers are lined up in a hallway.",
+    "scramble": "hallway / Lock / in / ers / lined / a / up / are"
+  },
+  {
+    "jp": "ドアの横に棚が取り付けられている。",
+    "en": "Shelves are being put up next to a door.",
+    "scramble": "are / up / door / being / to / Shelves / put / a / next"
+  },
+  {
+    "jp": "床からタイルが取り外されている。",
+    "en": "Tiles are being removed from the floor.",
+    "scramble": "the / being / floor / removed / from / are / Tiles"
+  },
+  {
+    "jp": "バッグはフックから吊り下げられている。",
+    "en": "Bags have been hung from hooks.",
+    "scramble": "Bags / hung / from / have / been / hooks"
+  },
+  {
+    "jp": "人々が車両にスーツケースを積み込んでいます。",
+    "en": "People are placing suitcases in a vehicle.",
+    "scramble": "People / a / suitcases / vehicle / placing / are / in"
+  },
+  {
+    "jp": "人々は公園で木を植えている。",
+    "en": "People are planting trees in a park.",
+    "scramble": "trees / are / park / a / planting / in / People"
+  },
+  {
+    "jp": "車が道路を下っていく。",
+    "en": "Cars are being driven down a road.",
+    "scramble": "road / a / down / are / driven / Cars / being"
+  },
+  {
+    "jp": "テントが野原に設営されている。",
+    "en": "Tent s are being set up in a field.",
+    "scramble": "field / are / a / being / set / up / Tent / s / in"
+  },
+  {
+    "jp": "女性たちが握手をしている。",
+    "en": "The women are shaking hands.",
+    "scramble": "women / shaking / are / hands / The"
+  },
+  {
+    "jp": "女性たちが向き合っている。",
+    "en": "Th e women are facing each other.",
+    "scramble": "facing / women / e / Th / each / other / are"
+  },
+  {
+    "jp": "女性の一人がカップから飲んでいる。",
+    "en": "One of the women is sipping from a cup.",
+    "scramble": "of / women / is / from / One / cup / the / a / sipping"
+  },
+  {
+    "jp": "女性の一人が書類をホチキスで止めている。",
+    "en": "One of the women is stapling a document.",
+    "scramble": "is / document / women / the / a / One / stapling / of"
+  },
+  {
+    "jp": "落ち葉が積み重ねられている。",
+    "en": "Leaves are being raked into piles.",
+    "scramble": "piles / raked / are / into / being / Leaves"
+  },
+  {
+    "jp": "街路の近くに街灯が設置されている。",
+    "en": "Lampposts are being installed near a street.",
+    "scramble": "a / Lampposts / are / installed / near / street / being"
+  },
+  {
+    "jp": "ベンチは歩道に沿って配置されている。",
+    "en": "Benches are positioned along a walkway.",
+    "scramble": "along / walkway / a / are / positioned / Benches"
+  },
+  {
+    "jp": "自転車がフェンスに鎖でつながれている。",
+    "en": "Bicycles are chained to a fence.",
+    "scramble": "Bicycles / a / to / are / chained / fence"
+  },
+
+  {
+    "jp": "彼女は箱を持ち上げている。",
+    "en": "She's lifting a crate.",
+    "scramble": "She's / crate / a / lifting"
+  },
+  {
+    "jp": "彼女は食料品を荷解きしている。",
+    "en": "She's unpacking some groceries.",
+    "scramble": "groceries / unpacking / some / She's"
+  },
+  {
+    "jp": "彼女はトレイに食事を乗せている。",
+    "en": "She's putting a meal on a tray.",
+    "scramble": "She's / tray / putting / on / meal / a / a"
+  },
+  {
+    "jp": "彼女は棚の上の皿に手を伸ばしている。",
+    "en": "She's reaching for a dish on a shelf.",
+    "scramble": "on / for / a / a / She's / dish / shelf / reaching"
+  },
+  {
+    "jp": "男性の一人がソファの近くに立っている。",
+    "en": "One of the men is standing near a  couch.",
+    "scramble": "is / the / One / near / couch / standing / a / men / of"
+  },
+  {
+    "jp": "その男性の一人がカップを持っている。",
+    "en": "One of the men is holding a  cup.",
+    "scramble": "cup / One / holding / a / is / men / the / of"
+  },
+  {
+    "jp": "彼らはいくつかの椅子を並べ替えている。",
+    "en": "They're rearranging some  chairs.",
+    "scramble": "some / rearranging / chairs / They're"
+  },
+  {
+    "jp": "彼らは何か食べ物を調理しています。",
+    "en": "They're cooking  some  food.",
+    "scramble": "some / food / They're / cooking"
+  },
+  {
+    "jp": "彼女はレジで支払いをしている。",
+    "en": "She's paying at a cash  register.",
+    "scramble": "cash / at / paying / She's / a / register"
+  },
+  {
+    "jp": "彼女は棚から品物を選んでいます。",
+    "en": "She's choosing an item off a shelf.",
+    "scramble": "off / item / a / an / choosing / shelf / She's"
+  },
+  {
+    "jp": "彼女はレストランのメニューを読んでいます。",
+    "en": "She's reading a restaurant  menu.",
+    "scramble": "menu / restaurant / reading / a / She's"
+  },
+  {
+    "jp": "彼女はグラスに飲料を注いでいます。",
+    "en": "She's pouring a beverage into a glass.",
+    "scramble": "She's / a / beverage / glass / into / a / pouring"
+  },
+  {
+    "jp": "彼らは劇場の外で列に並んで待っている。",
+    "en": "They're waiting in line outside a  theater.",
+    "scramble": "line / outside / They're / in / waiting / a / theater"
+  },
+  {
+    "jp": "その男性はコンピューターを修理しています。",
+    "en": "The man is repairing a  computer.",
+    "scramble": "man / a / The / computer / repairing / is"
+  },
+  {
+    "jp": "本は図書館に展示されている。",
+    "en": "Books are on display in a  library.",
+    "scramble": "in / a / library / Books / are / on / display"
+  },
+  {
+    "jp": "その女性は部屋からランプを持ち出している。",
+    "en": "The woman is carrying a lamp out of  the room.",
+    "scramble": "carrying / out / a / woman / lamp / is / The / the / of / room"
+  },
+  {
+    "jp": "窓が洗われている。",
+    "en": "Windows are being washed.",
+    "scramble": "washed / being / are / Windows"
+  },
+  {
+    "jp": "屋外にダイニングエリアが設置されている。",
+    "en": "A dining area has been set up  outdoors.",
+    "scramble": "area / outdoors / up / dining / set / A / has / been"
+  },
+  {
+    "jp": "椅子がカートの上に積み重ねられている。",
+    "en": "Chairs have been stacked on a  cart.",
+    "scramble": "have / stacked / on / cart / been / a / Chairs"
+  },
+  {
+    "jp": "カフェで食事が提供されている。",
+    "en": "Food is being served at  a café.",
+    "scramble": "at / café / is / served / Food / being / a"
+  },
+  {
+    "jp": "彼は収納ユニットから箱を取り出している。",
+    "en": "He's removing a box from a storage  unit.",
+    "scramble": "He's / a / from / removing / box / storage / unit / a"
+  },
+  {
+    "jp": "彼は仕事の制服を畳んでいます。",
+    "en": "He's folding a work  uniform.",
+    "scramble": "He's / folding / a / uniform / work"
+  },
+  {
+    "jp": "ホースが地面に置き去りにされている。",
+    "en": "A hose has been left on the ground.",
+    "scramble": "left / been / has / on / hose / ground / the / A"
+  },
+  {
+    "jp": "はしごが横向きに持たれています。",
+    "en": "A ladder is being  held sideways.",
+    "scramble": "ladder / is / being / held / sideways / A"
+  },
+
+  {
+    "jp": "彼は公園でくつろいでいます。",
+    "en": "He's relaxing in a park.",
+    "scramble": "a / in / relaxing / He's / park"
+  },
+  {
+    "jp": "彼は通路を掃いている。",
+    "en": "He's sweeping a walkway.",
+    "scramble": "a / sweeping / He's / walkway"
+  },
+  {
+    "jp": "彼は窓枠を塗装している。",
+    "en": "He's painting a window frame.",
+    "scramble": "a / painting / window / He's / frame"
+  },
+  {
+    "jp": "彼はベンチを修理している。",
+    "en": "He's repairing a bench.",
+    "scramble": "a / He's / bench / repairing"
+  },
+  {
+    "jp": "何人かの女性が何体かの像を眺めている。",
+    "en": "Some women are viewing some statues.",
+    "scramble": "women / statues / viewing / are / Some / some"
+  },
+  {
+    "jp": "何人かの女性が銀行のロビーで待っています。",
+    "en": "Some women are waiting in a bank lobby.",
+    "scramble": "a / Some / bank / are / lobby / in / women / waiting"
+  },
+  {
+    "jp": "何人かの女性が何枚かの絵画の代金を払っている。",
+    "en": "Some women are paying for some paintings.",
+    "scramble": "paying / are / women / paintings / some / Some / for"
+  },
+  {
+    "jp": "いくつかの女性が美術展覧会に参加している。",
+    "en": "Some women  are attending an art exhibit.",
+    "scramble": "are / attending / an / women / exhibit / art / Some"
+  },
+  {
+    "jp": "彼は受付デスクで働いています。",
+    "en": "He's working at a reception desk.",
+    "scramble": "working / at / He's / desk / a / reception"
+  },
+  {
+    "jp": "彼はマニュアルを参照している。",
+    "en": "He's consulting a ma nual.",
+    "scramble": "He's / consulting / ma / a / nual"
+  },
+  {
+    "jp": "彼はコンピューターモニターを持ち上げている。",
+    "en": "He's lifting a computer monitor.",
+    "scramble": "monitor / computer / lifting / He's / a"
+  },
+  {
+    "jp": "彼は電源コードを差し込んでいます。",
+    "en": "He's plugging in a power cord.",
+    "scramble": "a / power / cord / He's / plugging / in"
+  },
+  {
+    "jp": "男性が食事代を支払っている。",
+    "en": "A man is paying for a meal.",
+    "scramble": "man / is / paying / A / meal / for / a"
+  },
+  {
+    "jp": "男性が皿を洗っています。",
+    "en": "A man is washing dishes.",
+    "scramble": "A / washing / is / man / dishes"
+  },
+  {
+    "jp": "男性がフックにかかったコートに手を伸ばしている。",
+    "en": "A man is reaching for a coat on a hook.",
+    "scramble": "on / for / A / is / coat / a / man / hook / a / reaching"
+  },
+  {
+    "jp": "男性がビュッフェからいくつかの食べ物を選んでいます。",
+    "en": "A man is sele cting some food from a buffet.",
+    "scramble": "food / some / a / is / buffet / from / sele / man / A / cting"
+  },
+  {
+    "jp": "いくつかの本が床に積み重ねられている。",
+    "en": "Some books are stacked on the floor.",
+    "scramble": "stacked / are / books / on / the / Some / floor"
+  },
+  {
+    "jp": "いくつかのカーテンが取り外されている。",
+    "en": "Some curtains are being taken down.",
+    "scramble": "taken / being / down / Some / curtains / are"
+  },
+  {
+    "jp": "壁の一つは棚が並んでいます。",
+    "en": "One of th e walls is lined with shelves.",
+    "scramble": "with / e / of / walls / lined / th / One / is / shelves"
+  },
+  {
+    "jp": "椅子が隅に押しやられている。",
+    "en": "Chairs have been pushed into a corner.",
+    "scramble": "have / into / Chairs / been / corner / a / pushed"
+  },
+  {
+    "jp": "労働者たちがいくつかの階段を登っています。",
+    "en": "Workers are climbing up some steps.",
+    "scramble": "some / are / climbing / up / Workers / steps"
+  },
+  {
+    "jp": "いくつかの食料品が車に積み込まれている。",
+    "en": "Some groceries are being loaded into a car.",
+    "scramble": "are / into / being / groceries / car / Some / loaded / a"
+  },
+  {
+    "jp": "トラックのバックドアが開いている。",
+    "en": "The back do or of a truck has been opened.",
+    "scramble": "do / of / a / been / opened / The / or / truck / has / back"
+  },
+  {
+    "jp": "車が信号機のところで曲がっている。",
+    "en": "A car is turning at a stoplight.",
+    "scramble": "A / at / a / is / stoplight / car / turning"
+  },
+
+  {
+    "jp": "その男性はラップトップを開いている。",
+    "en": "The man is opening a laptop.",
+    "scramble": "man / a / opening / The / laptop / is"
+  },
+  {
+    "jp": "その男は窓の外を見ている。",
+    "en": "The man is looking out a window.",
+    "scramble": "out / window / man / The / is / a / looking"
+  },
+  {
+    "jp": "その男性はキーボードでタイピングしている。",
+    "en": "The man is typing on a keyboard.",
+    "scramble": "on / The / is / keyboard / man / a / typing"
+  },
+  {
+    "jp": "その男性はランプをつけています。",
+    "en": "The man is turning on a lamp.",
+    "scramble": "is / on / man / a / turning / The / lamp"
+  },
+  {
+    "jp": "彼女は釘を壁に打ち込んでいます。",
+    "en": "She's hammering a nail into a wall.",
+    "scramble": "She's / into / a / nail / wall / hammering / a"
+  },
+  {
+    "jp": "彼女はコンセントからコードを抜いている。",
+    "en": "She's unplugging a cord from an outlet.",
+    "scramble": "from / outlet / an / cord / unplugging / She's / a"
+  },
+  {
+    "jp": "いくつかの道具が壁に掛けられている。",
+    "en": "Some tools have been hung on a wall.",
+    "scramble": "have / wall / hung / Some / been / tools / on / a"
+  },
+  {
+    "jp": "机の上にいくつかの書類が積み重ねられている。",
+    "en": "Some papers have been piled on a desk.",
+    "scramble": "Some / desk / papers / a / on / piled / been / have"
+  },
+  {
+    "jp": "その男性はリサイクルビンを運んでいます。",
+    "en": "The man is carrying a recycling bin.",
+    "scramble": "recycling / carrying / The / a / man / is / bin"
+  },
+  {
+    "jp": "その女性の1人が自転車の鍵を開けています。",
+    "en": "One of the women is openi ng a bicycle lock.",
+    "scramble": "One / a / openi / lock / ng / bicycle / the / of / is / women"
+  },
+  {
+    "jp": "ある人たちがドアの入り口に近づいている。",
+    "en": "Some people are approaching a doorway.",
+    "scramble": "people / are / approaching / a / doorway / Some"
+  },
+  {
+    "jp": "女性の一人がバッグを置いている。",
+    "en": "One of the women is setting down her bag.",
+    "scramble": "down / the / her / bag / is / One / setting / women / of"
+  },
+  {
+    "jp": "床の木の板がいくつか欠けている。",
+    "en": "The floor is missing some wooden boards.",
+    "scramble": "The / wooden / floor / is / boards / some / missing"
+  },
+  {
+    "jp": "ダイニングエリアの上に開いた傘がある。",
+    "en": "There's an open umbrella over a dining area.",
+    "scramble": "umbrella / over / a / open / There's / area / an / dining"
+  },
+  {
+    "jp": "いくつかのクッションが地面に配置されている。",
+    "en": "Some cushions have been arranged on the ground.",
+    "scramble": "ground / been / cushions / arranged / have / the / Some / on"
+  },
+  {
+    "jp": "フェンスの後ろにいくつかの木があります。",
+    "en": "There are some trees behind a fence.",
+    "scramble": "are / some / trees / fence / There / a / behind"
+  },
+  {
+    "jp": "女性の一人が天井を指差しています。",
+    "en": "One of the women is pointing at the ceiling.",
+    "scramble": "women / of / at / is / the / the / pointing / One / ceiling"
+  },
+  {
+    "jp": "女性たちは並んで立っている。",
+    "en": "The women are standing side by side.",
+    "scramble": "are / standing / by / side / women / side / The"
+  },
+  {
+    "jp": "カウンターの上にいくつかのボトルが置かれている。",
+    "en": "Some bottles are arranged on a counter.",
+    "scramble": "on / are / counter / arranged / a / bottles / Some"
+  },
+  {
+    "jp": "いくつかの軽食がディスプレイケースの中に整理されて配置されている。",
+    "en": "Some refreshments have been organized in a di splay case.",
+    "scramble": "case / been / splay / di / organized / Some / in / a / refreshments / have"
+  },
+  {
+    "jp": "トラックの近くにいくつかの交通コーンが置かれている。",
+    "en": "Some traffic cones have been placed near a truck.",
+    "scramble": "traffic / placed / cones / truck / near / been / have / a / Some"
+  },
+  {
+    "jp": "いくつかの木の枝が剪定されている。",
+    "en": "Some tree branches are being trimmed.",
+    "scramble": "being / trimmed / tree / are / branches / Some"
+  },
+  {
+    "jp": "トラックが車をけん引している。",
+    "en": "A car is being towed by a truck.",
+    "scramble": "being / a / towed / is / car / truck / A / by"
+  },
+  {
+    "jp": "駐車場にいくつかの花が植えられている。",
+    "en": "Some flowers have been planted in a parking area.",
+    "scramble": "in / area / a / have / been / planted / Some / flowers / parking"
+  },
+
+  {
+    "jp": "彼女はキャビネットの中に手を伸ばしている。",
+    "en": "She's reaching into a cabinet.",
+    "scramble": "into / She's / a / cabinet / reaching"
+  },
+  {
+    "jp": "彼女は窓のブラインドを調整しています。",
+    "en": "She's adjusting a window shade.",
+    "scramble": "a / window / adjusting / She's / shade"
+  },
+  {
+    "jp": "彼女はポスターを持っています。",
+    "en": "She's holding a poster.",
+    "scramble": "a / holding / poster / She's"
+  },
+  {
+    "jp": "彼女はドアの開口部を通して見ている。",
+    "en": "She's looking through a doorway.",
+    "scramble": "a / looking / through / doorway / She's"
+  },
+  {
+    "jp": "男性の一人が食事の注文を受けている。",
+    "en": "One of the men is taking a food order.",
+    "scramble": "order / men / taking / a / One / the / is / of / food"
+  },
+  {
+    "jp": "その男性たちの1人が1人で食事をしている。",
+    "en": "One of the men is dining alone.",
+    "scramble": "is / alone / One / the / men / dining / of"
+  },
+  {
+    "jp": "その男性の一人が食事を調理しています。",
+    "en": "One of the men is cooking a meal.",
+    "scramble": "men / cooking / meal / of / One / is / the / a"
+  },
+  {
+    "jp": "その男の一人は戸口に立っている。",
+    "en": "One of th e men is standing in a doorway.",
+    "scramble": "of / a / men / th / standing / in / doorway / e / is / One"
+  },
+  {
+    "jp": "彼はいくつかの瓦礫を片付けている。",
+    "en": "He's cleaning up some debris.",
+    "scramble": "debris / up / some / cleaning / He's"
+  },
+  {
+    "jp": "彼はパティオのタイルを何枚か取り付けている。",
+    "en": "He's installing some patio tiles.",
+    "scramble": "patio / installing / some / He's / tiles"
+  },
+  {
+    "jp": "レンガの煙突が塗装されている。",
+    "en": "A brick chimney is being painted.",
+    "scramble": "chimney / is / being / brick / A / painted"
+  },
+  {
+    "jp": "ほうきが窓枠に立てかけられている。",
+    "en": "A broom has been propped against a windowsill.",
+    "scramble": "been / windowsill / against / broom / A / propped / a / has"
+  },
+  {
+    "jp": "彼らはレジのカウンターで並んで待っています。",
+    "en": "They're waiting in line at a checkout counter.",
+    "scramble": "They're / checkout / a / waiting / counter / in / line / at"
+  },
+  {
+    "jp": "男性がノートパソコンでタイプしている。",
+    "en": "A man is typing on a laptop.",
+    "scramble": "laptop / is / a / A / typing / on / man"
+  },
+  {
+    "jp": "いくつかの飲料が注がれている。",
+    "en": "Some beverages are being poured.",
+    "scramble": "Some / poured / are / beverages / being"
+  },
+  {
+    "jp": "何人かの人々が書類を調べている。",
+    "en": "Some of the people are examining a document.",
+    "scramble": "people / the / document / are / Some / examining / of / a"
+  },
+  {
+    "jp": "はしごがフェンスにもたれかかっている。",
+    "en": "A ladder is leaning against a fence.",
+    "scramble": "fence / is / A / against / ladder / leaning / a"
+  },
+  {
+    "jp": "角の方に衣類の山がある。",
+    "en": "There's a pile of clothing in the corner.",
+    "scramble": "pile / clothing / of / in / corner / a / There's / the"
+  },
+  {
+    "jp": "いくつかの絵が壁に掛かっている。",
+    "en": "Some pictures are hanging on a wall.",
+    "scramble": "pictures / on / Some / hanging / wall / a / are"
+  },
+  {
+    "jp": "いくつかの箱が床に積み重ねられている。",
+    "en": "Some boxes are stacked on the floor.",
+    "scramble": "boxes / stacked / are / the / on / floor / Some"
+  },
+  {
+    "jp": "バイクが柱に立てかけてある。",
+    "en": "A bike is leaning against a column.",
+    "scramble": "column / a / against / A / is / leaning / bike"
+  },
+  {
+    "jp": "ヘルメットが自転車のハンドルバーから吊り下げられている。",
+    "en": "A helmet is suspended from a bike's handlebars.",
+    "scramble": "handlebars / helmet / suspended / a / is / from / bike's / A"
+  },
+  {
+    "jp": "人々が会話をしている。",
+    "en": "The people are having a conversation.",
+    "scramble": "people / are / conversation / having / a / The"
+  },
+  {
+    "jp": "人々は同じ方向を向いて座っている。",
+    "en": "The people are seated facing in the same direction.",
+    "scramble": "the / in / same / facing / direction / seated / people / The / are"
+  },
+
+  {
+    "jp": "彼は木を切っている。",
+    "en": "He's chopping some wood.",
+    "scramble": "chopping / some / He's / wood"
+  },
+  {
+    "jp": "彼は自転車に乗っています。",
+    "en": "He's riding a bicycle.",
+    "scramble": "a / bicycle / He's / riding"
+  },
+  {
+    "jp": "彼はベンチで休んでいます。",
+    "en": "He's resting on a bench.",
+    "scramble": "resting / He's / a / on / bench"
+  },
+  {
+    "jp": "彼は公園を歩いています。",
+    "en": "He's walking in a park.",
+    "scramble": "a / He's / in / walking / park"
+  },
+  {
+    "jp": "何人かの人が列に並んで待っています。",
+    "en": "Some people are waiting in a line.",
+    "scramble": "Some / people / waiting / are / line / in / a"
+  },
+  {
+    "jp": "何人かの人々がテントを組み立てている。",
+    "en": "Some people are assembling tents.",
+    "scramble": "are / tents / people / assembling / Some"
+  },
+  {
+    "jp": "何人かの人々が講堂に集まっている。",
+    "en": "Some people are gathered in an auditorium.",
+    "scramble": "in / an / auditorium / are / gathered / Some / people"
+  },
+  {
+    "jp": "何人かの人々が橋を渡っている。",
+    "en": "Some people are walking across a bridge.",
+    "scramble": "are / a / bridge / people / Some / walking / across"
+  },
+  {
+    "jp": "その女性はフォームに情報を記入しています。",
+    "en": "The woman is writing some information on a form.",
+    "scramble": "a / is / woman / form / The / some / on / information / writing"
+  },
+  {
+    "jp": "女性がエプロンをフックに掛けている。",
+    "en": "The woman is hanging an apron on a hook.",
+    "scramble": "an / is / a / woman / hanging / The / apron / on / hook"
+  },
+  {
+    "jp": "女性は冷蔵庫の中を見ている。",
+    "en": "The woman is looking inside a refrigerator.",
+    "scramble": "refrigerator / a / woman / looking / inside / The / is"
+  },
+  {
+    "jp": "その女性はペンをポケットに入れている。",
+    "en": "The woman is putting a pen in her pocket.",
+    "scramble": "in / a / pocket / woman / putting / The / her / is / pen"
+  },
+  {
+    "jp": "機械が外で使われている。",
+    "en": "A machine is being used outside.",
+    "scramble": "is / used / outside / machine / A / being"
+  },
+  {
+    "jp": "マグカップが飲料で満たされている。",
+    "en": "A mug is being filled with a beverage.",
+    "scramble": "beverage / with / a / being / is / filled / mug / A"
+  },
+  {
+    "jp": "いくつかのコーヒー豆が機械に注がれている。",
+    "en": "Some coffee beans are being poured into a machine.",
+    "scramble": "a / are / into / beans / coffee / machine / Some / poured / being"
+  },
+  {
+    "jp": "鋼製の機器が持ち上げられている。",
+    "en": "Some steel equipment is being lifted.",
+    "scramble": "lifted / being / steel / equipment / is / Some"
+  },
+  {
+    "jp": "女性たちは一緒にプレゼンテーションを行っている。",
+    "en": "The women are giving a presentation together.",
+    "scramble": "women / a / The / together / are / presentation / giving"
+  },
+  {
+    "jp": "女性たちはいくつかの椅子を押しています。",
+    "en": "The women are pushing some chairs.",
+    "scramble": "pushing / The / are / some / chairs / women"
+  },
+  {
+    "jp": "その女性の一人が小冊子を持っている。",
+    "en": "One of the women is holding a booklet.",
+    "scramble": "the / holding / is / women / One / booklet / a / of"
+  },
+  {
+    "jp": "その女性の一人がバックパックの中に手を伸ばしている。",
+    "en": "One of the women is reaching into her backpack.",
+    "scramble": "One / reaching / the / of / backpack / into / women / is / her"
+  },
+  {
+    "jp": "木の後ろに門がある。",
+    "en": "There is a gate behind a tree.",
+    "scramble": "a / tree / a / behind / gate / is / There"
+  },
+  {
+    "jp": "いくつかの植物が剪定されている。",
+    "en": "Some plants are being pruned.",
+    "scramble": "plants / are / Some / pruned / being"
+  },
+  {
+    "jp": "看板が壁に取り付けられている。",
+    "en": "A sign is mounted on a wall.",
+    "scramble": "A / is / a / on / wall / mounted / sign"
+  },
+  {
+    "jp": "いくつかの花が店の窓に展示されている。",
+    "en": "Some flowers are on display in a shop window.",
+    "scramble": "on / in / window / a / display / Some / are / shop / flowers"
+  }
+]
