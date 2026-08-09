@@ -25,7 +25,7 @@
     "scramble": "helmets / They / safety / wearing / are"
   },
   {
-    "jp": "彼らはいくつかのベストを掛けている。",
+    "jp": "彼らはいくつかのベストを脱いでいる。",
     "en": "They are hanging up some vests.",
     "scramble": "up / vests / hanging / are / some / They"
   },
@@ -65,7 +65,7 @@
     "scramble": "is / men / of / holding / the / One / a / pen"
   },
   {
-    "jp": "その男性の一人がメガネを掃除しています。",
+    "jp": "男性の一人がメガネを掃除しています。",
     "en": "One of the men is cleaning his glasses.",
     "scramble": "of / One / men / glasses / the / is / cleaning / his"
   },
@@ -105,7 +105,7 @@
     "scramble": "a / A / building / park / overlooks / city"
   },
   {
-    "jp": "自転車が橋の上で乗られている。\n\nまたは\n\n人々が橋の上で自転車に乗っている。",
+    "jp": "人々が橋を渡って自転車に乗っている。",
     "en": "Bicycles are being ridden over a bridge.",
     "scramble": "being / bridge / a / are / over / ridden / Bicycles"
   },
@@ -140,7 +140,7 @@
     "scramble": "He's / a / power / tool / operating"
   },
   {
-    "jp": "その男性はオフィスを歩いて移動しています。",
+    "jp": "その男性はオフィスを歩いている。",
     "en": "The man is walking through an office.",
     "scramble": "man / office / through / walking / is / an / The"
   },
@@ -170,7 +170,7 @@
     "scramble": "her / adjusting / She's / hat"
   },
   {
-    "jp": "彼女は美術館に入っていく。",
+    "jp": "彼女は美術館に入っている。",
     "en": "She's entering a museum.",
     "scramble": "entering / She's / museum / a"
   },
@@ -185,7 +185,7 @@
     "scramble": "trash / can / being / is / emptied / A"
   },
   {
-    "jp": "木が小道の近くで育っている。",
+    "jp": "木々が小道の近くで育っている。",
     "en": "Trees are growing near a path.",
     "scramble": "Trees / growing / path / a / near / are"
   },
@@ -195,12 +195,12 @@
     "scramble": "on / walkway / a / streetlights / shining / Some / are"
   },
   {
-    "jp": "いくつかのベンチが向き合っている。",
+    "jp": "いくつかのベンチが互いに向き合っている。",
     "en": "Some benches are facing each other.",
     "scramble": "benches / Some / other / each / are / facing"
   },
   {
-    "jp": "いくつかのテーブルは雑誌で覆われている。",
+    "jp": "いくつかのテーブルが雑誌で覆われている。",
     "en": "Some tables are covered with magazines.",
     "scramble": "magazines / Some / are / covered / tables / with"
   },
@@ -225,7 +225,7 @@
     "scramble": "by / blocked / is / some / curtains / window / A"
   },
   {
-    "jp": "壁に何か作品が取り付けられている。",
+    "jp": "壁にいくつかの作品が取り付けられている。",
     "en": "Some artwork is being mounted on the wall.",
     "scramble": "on / mounted / artwork / being / is / wall / Some / the"
   },
@@ -720,7 +720,7 @@
     "scramble": "floor / in / mat / a / a / hallway / There's"
   },
   {
-    "jp": "その女性は何かの材料を施錠している。",
+    "jp": "その女性は材料を保管している。",
     "en": "The woman is locking up some materials.",
     "scramble": "materials / locking / some / The / woman / is / up"
   },
@@ -745,7 +745,7 @@
     "scramble": "cushions / are / a / couch / arranged / on / Some"
   },
   {
-    "jp": "2つのテーブルが並べて置かれている。",
+    "jp": "2つのテーブルが並んで置かれている。",
     "en": "Two tables have been placed side by side.",
     "scramble": "placed / Two / side / side / have / by / tables / been"
   },
@@ -790,12 +790,12 @@
     "scramble": "is / recycling / beside / bin / A / a / crosswalk"
   },
   {
-    "jp": "男性が車が並んでいる近くにいます。",
+    "jp": "男性が一列に並んだ車の近くにいます。",
     "en": "A man is near a row of vehicles.",
     "scramble": "vehicles / row / A / man / a / near / of / is"
   },
   {
-    "jp": "男性がプラスチック袋の中身を空にしている。",
+    "jp": "男性がプラスチック袋を空にしている。",
     "en": "A man is emptying out a plastic bag.",
     "scramble": "out / a / man / A / plastic / is / bag / emptying"
   },
@@ -805,7 +805,7 @@
     "scramble": "A / is / to / a / wheelbarrow / next / walkway"
   },
   {
-    "jp": "トラフィックコーンが草原へのアクセスをブロックしている。",
+    "jp": "交通コーンが草原へのアクセスを遮断している。",
     "en": "A traffic cone is blocking access to a grassy field.",
     "scramble": "blocking / grassy / to / cone / traffic / field / access / A / is / a"
   },
@@ -815,7 +815,7 @@
     "scramble": "been / fence / shrubs / Some / have / along / planted / a"
   },
   {
-    "jp": "看板が植木鉢に立てかけてある。",
+    "jp": "看板が植木鉢に立てかけられている。",
     "en": "A sign board is leaning against a flowerpot.",
     "scramble": "a / leaning / board / A / against / is / sign / flowerpot"
   },

@@ -100,17 +100,17 @@
     "scramble": "the / supervisor / Who’s / new / department"
   },
   {
-    "jp": "そのビデオ会議での研修は役に立ちましたね、そうですね？",
+    "jp": "そのビデオ会議での研修は役に立ちましたね。",
     "en": "The videoconference training was useful, wasn’t it?",
     "scramble": "wasn’t / The / useful / training / was / videoconference / it"
   },
   {
-    "jp": "今日の会議が早く終わったら素敵じゃないでしょうか？",
+    "jp": "今日の会議が早く終わったらいいのに。",
     "en": "Wouldn’t it be nice if today’s meeting ended early?",
     "scramble": "be / Wouldn’t / early / ended / nice / today’s / if / it / meeting"
   },
   {
-    "jp": "あなたは医療クリニックの新しい場所に行ったことがありますか?",
+    "jp": "あなたはクリニックの新しい場所に行ったことがありますか？",
     "en": "Have you been to the medical clinic’s new location?",
     "scramble": "the / new / medical / to / Have / location / been / you / clinic’s"
   },
@@ -125,7 +125,7 @@
     "scramble": "container / the / port / will / ship / the / from / sail / When / set / next"
   },
   {
-    "jp": "その企業の看板はどこに設置されるのか。",
+    "jp": "その企業の看板はどこに設置されるのですか？",
     "en": "Where will the company billboard be located?",
     "scramble": "the / be / located / will / Where / billboard / company"
   },
@@ -135,7 +135,7 @@
     "scramble": "today / leave / report / me / Could / sales / you / before / that / you / send"
   },
   {
-    "jp": "誰かメールカートを動かしましたか？",
+    "jp": "誰かがメールカートを動かしましたか？",
     "en": "Did someone move the mail cart?",
     "scramble": "cart / mail / Did / move / the / someone"
   },
@@ -150,7 +150,7 @@
     "scramble": "morning / was / Elizabeth / this / Why / late"
   },
   {
-    "jp": "理学療法センター（またはリハビリテーションセンター）はどこにありますか？",
+    "jp": "理学療法センターはどこにありますか？",
     "en": "Where is the physical rehabilitation center?",
     "scramble": "Where / rehabilitation / physical / the / center / is"
   },
@@ -160,7 +160,7 @@
     "scramble": "take / you / at / notes / please / Would / the / meeting"
   },
   {
-    "jp": "高速道路を使うべきか、町を通って運転するべきか?",
+    "jp": "高速道路を使うべきか、町を通って行くべきか？",
     "en": "Should we take the highway or drive through town?",
     "scramble": "the / highway / we / take / or / town / drive / through / Should"
   },
@@ -425,7 +425,7 @@
     "scramble": "play / concert / a / we / a / or / Should / go / to / see"
   },
   {
-    "jp": "このに会社で働き始めたのはいつですか？",
+    "jp": "この会社で働き始めたのはいつですか？",
     "en": "When did you begin working at this firm?",
     "scramble": "begin / firm / When / did / at / working / this / you"
   },
@@ -445,7 +445,7 @@
     "scramble": "should / prepare / presentation / many / the / copies / of / we / How"
   },
   {
-    "jp": "昼休み時間のヨガクラスに行ってきます。",
+    "jp": "昼休み時間に休憩室でヨガクラスに行ってきます。",
     "en": "I’m headed to the lunchtime yoga class in the break room.",
     "scramble": "the / class / room / yoga / break / in / to / I’m / lunchtime / headed / the"
   },
@@ -460,7 +460,7 @@
     "scramble": "you / to / does / to / long / it / work / take / commute / How"
   },
   {
-    "jp": "屋外のフェンスをメンテナンスクルーはいつ交換しますか？",
+    "jp": "屋外のフェンスをメンテナンスクルーがいつ交換しますか？",
     "en": "When will the maintenance crew replace the outdoor fence?",
     "scramble": "When / crew / outdoor / maintenance / the / fence / replace / the / will"
   },
@@ -485,7 +485,7 @@
     "scramble": "the / ready / Is / report / financial"
   },
   {
-    "jp": "年間検診をスケジュール設定しましょうか？",
+    "jp": "年間検診を予約しましょうか？",
     "en": "Would you like me to schedule your annual checkup?",
     "scramble": "me / schedule / to / annual / you / like / checkup / Would / your"
   },
@@ -540,7 +540,7 @@
     "scramble": "costs / it / doesn’t / The / lot / flight / a"
   },
   {
-    "jp": "今午後、マネージャーたちはどこへ行くのですか？",
+    "jp": "この午後、マネージャーたちはどこへ行くのですか？",
     "en": "Where are the managers going this afternoon?",
     "scramble": "are / managers / this / going / afternoon / the / Where"
   },
@@ -585,12 +585,12 @@
     "scramble": "what / the / about / talk / clients / Let’s / requested"
   },
   {
-    "jp": "すみません、イチゴジャムはもう5番通路にはありません。",
+    "jp": "すみません、イチゴジャムは5番通路にもうありません。",
     "en": "Excuse me, the strawberry jam isn’t in aisle five anymore.",
     "scramble": "jam / aisle / me / in / Excuse / isn’t / strawberry / five / the / anymore"
   },
   {
-    "jp": "今午後、聴衆と画面を共有していただけますか？",
+    "jp": "この午後、聴衆と画面を共有していただけますか？",
     "en": "Could you share your screen with the audience this afternoon?",
     "scramble": "the / you / audience / afternoon / share / your / Could / screen / this / with"
   },

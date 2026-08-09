@@ -310,7 +310,7 @@
     "scramble": "women / is / pointing / monitor / One / at / the / computer / of / a"
   },
   {
-    "jp": "男性は机の引き出いの中にフォルダーをしまっている。",
+    "jp": "男性は机の引き出しの中にフォルダーをしまっている。",
     "en": "The man is filing folders in a desk drawer.",
     "scramble": "in / drawer / desk / a / The / filing / man / is / folders"
   },
@@ -415,7 +415,7 @@
     "scramble": "putting / air / of / tires / the / He's / a / car / in"
   },
   {
-    "jp": "彼は車の前席の上かがんでいる。",
+    "jp": "彼は車の前席の上で身をかがめている。",
     "en": "He's bending over the front seat of a car.",
     "scramble": "He's / over / the / seat / a / car / of / bending / front"
   },
@@ -440,22 +440,22 @@
     "scramble": "beach / are / through / Birds / flying / over / a / the / sky"
   },
   {
-    "jp": "バイクに乗った人もいます。",
+    "jp": "人々がバイクに座っています。",
     "en": "Some people are seated on their motorcycles.",
     "scramble": "their / Some / motorcycles / are / seated / people / on"
   },
   {
-    "jp": "バイクをガレージに駐車している人もいます。",
+    "jp": "人々がバイクをガレージに駐車しています。",
     "en": "Some people have parked their motorcycles in a garage.",
     "scramble": "people / their / have / a / garage / Some / in / parked / motorcycles"
   },
   {
-    "jp": "バイクを街灯に鍵でロックしている人もいます。",
+    "jp": "何台かのバイクが街灯にロックされています。",
     "en": "Some motorcycles have been locked to a lamppost.",
     "scramble": "lamppost / have / to / a / locked / been / Some / motorcycles"
   },
   {
-    "jp": "バイクに乗って通りを走っている人もいます。",
+    "jp": "ライダー達がバイクに乗って通りを走っています。",
     "en": "Some motorcycle riders are driving down the street.",
     "scramble": "riders / street / the / driving / down / Some / motorcycle / are"
   },
@@ -575,17 +575,17 @@
     "scramble": "placed / a / bench / been / tree / under / has / A"
   },
   {
-    "jp": "小屋の下に薪が保管されている。",
+    "jp": "小屋の軒下に薪が保管されている。",
     "en": "Some wood has been stored under a shed.",
     "scramble": "under / has / Some / stored / been / shed / a / wood"
   },
   {
-    "jp": "何人かの顧客がお皿を満たすために並んでいます。",
+    "jp": "何人かの顧客がお皿に料理をとるために並んでいます。",
     "en": "Some customers are lining up to fill their plates.",
     "scramble": "lining / their / plates / fill / up / Some / customers / to / are"
   },
   {
-    "jp": "サーバーが何人かの食事客にディナーを配達しています。",
+    "jp": "サーバーが何人かの食事客にディナーを提供しています。",
     "en": "A server is delivering dinner to some diners.",
     "scramble": "some / to / A / server / dinner / delivering / is / diners"
   },
@@ -595,7 +595,7 @@
     "scramble": "a / stacked / the / are / Some / area / middle / dining / in / chairs / of"
   },
   {
-    "jp": "従業員が一杯の食器を運んでいます。",
+    "jp": "従業員が積み重ねた食器を運んでいます。",
     "en": "A worker is carrying a pile of dishes.",
     "scramble": "a / carrying / is / pile / of / worker / dishes / A"
   }

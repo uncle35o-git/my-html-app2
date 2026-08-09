@@ -180,7 +180,7 @@
     "scramble": "working / now / or / want / break / Do / keep / a / you / take / to"
   },
   {
-    "jp": "どの工場がアパートに転換されていますか？",
+    "jp": "どの工場がアパートメントに転換されていますか？",
     "en": "Which factory is being turned into apartments?",
     "scramble": "into / factory / being / apartments / Which / turned / is"
   },
@@ -195,12 +195,12 @@
     "scramble": "two / at / call / noon / or / Should / clients / I / P.M. / the / at"
   },
   {
-    "jp": "2番のバスはここに何分おきに止まりますか？",
+    "jp": "2番線バスはここに何分ごとに停止しますか？",
     "en": "How often does the number two bus stop here?",
     "scramble": "bus / here / does / often / two / stop / number / How / the"
   },
   {
-    "jp": "昼食会にはローストビーフとパスタ、どちらをご注文しますか？",
+    "jp": "昼食会用にローストビーフとパスタのどちらをご注文しますか？",
     "en": "Would you like me to order roast beef or pasta for the luncheon?",
     "scramble": "pasta / roast / luncheon / order / beef / like / you / or / the / Would / me / for / to"
   },
@@ -435,7 +435,7 @@
     "scramble": "the loading / docks / to / the entrance / Where's"
   },
   {
-    "jp": "法務部にこのライセンス契約を確認してもらえますよ。",
+    "jp": "法務部にこのライセンス契約を確認してもらえます。",
     "en": "I can have the legal department look at this licensing agreement for you.",
     "scramble": "for / you / have / look / department / agreement / this / I / at / legal / the / can / licensing"
   },
@@ -460,7 +460,7 @@
     "scramble": "aren't / we / tomorrow / batteries / car / of / shipment / a / receiving / We're"
   },
   {
-    "jp": "フエンテスさんはスピーチを行うときに通訳が必要になります。",
+    "jp": "フエンテスさんがスピーチを行う際に通訳が必要になります。",
     "en": "Ms. Fuentes will need an interpreter when she delivers her speech.",
     "scramble": "her / speech / delivers / she / when / interpreter / an / need / will / Fuentes / Ms."
   },
@@ -495,7 +495,7 @@
     "scramble": "that / famous / monument / to / clients / our / taken / ever / haven't / we / Why"
   },
   {
-    "jp": "すぐにその見つからない荷物を見つけなければなりません。",
+    "jp": "すぐにその行方不明の荷物を見つけなければなりません。",
     "en": "We need to find that missing package right away.",
     "scramble": "right / away / package / missing / that / to / find / need / We"
   },
@@ -515,7 +515,7 @@
     "scramble": "position / yet / salesperson / the / Have / for / applied / you"
   },
   {
-    "jp": "新しい複写機の使い方を教えてもらえますか？",
+    "jp": "新しいコピー機の使い方を教えてもらえますか？",
     "en": "Can you help me with the new copier?",
     "scramble": "new / copier / the / Can / with / me / help / you"
   },
@@ -530,7 +530,7 @@
     "scramble": "wasn't / it / accepted / Our / was / application / loan"
   },
   {
-    "jp": "私の名刺には住所がバレンシアと書いてあります。",
+    "jp": "私の名刺には住所がバレンシアだと書いてあります。",
     "en": "My business card says my address is in Valencia.",
     "scramble": "in / Valencia / is / My / address / my / says / card / business"
   },
