@@ -86,8 +86,8 @@
   },
   {
     "jp": "ウェイターがメモ帳に何かを書いている。",
-    "en": "A waiter is writin g on a notepad.",
-    "scramble": "g / notepad / on / A / a / is / waiter / writin"
+    "en": "A waiter is writing on a notepad.",
+    "scramble": "on / notepad / a / is / writing / waiter / A"
   },
   {
     "jp": "ウェイターが何かの飲み物を出しています。",
@@ -141,8 +141,8 @@
   },
   {
     "jp": "彼はバッグから物を取り出している。",
-    "en": "He’ s removing an item from a bag.",
-    "scramble": "item / removing / He’ / from / an / bag / s / a"
+    "en": "He’s removing an item from a bag.",
+    "scramble": "from / a / bag / item / an / removing / He’s"
   },
   {
     "jp": "彼は食べ物のトレーを運んでいます。",
@@ -161,8 +161,8 @@
   },
   {
     "jp": "ロッカーが廊下に一列に並んでいる。",
-    "en": "Lock ers are lined up in a hallway.",
-    "scramble": "hallway / Lock / in / ers / lined / a / up / are"
+    "en": "Lockers are lined up in a hallway.",
+    "scramble": "in / a / hallway / up / lined / are / Lockers"
   },
   {
     "jp": "ドアの横に棚が取り付けられている。",
@@ -196,8 +196,8 @@
   },
   {
     "jp": "テントが野原に設営されている。",
-    "en": "Tent s are being set up in a field.",
-    "scramble": "field / are / a / being / set / up / Tent / s / in"
+    "en": "Tents are being set up in a field.",
+    "scramble": "up / in / field / a / set / being / are / Tents"
   },
   {
     "jp": "女性たちが握手をしている。",
@@ -206,8 +206,8 @@
   },
   {
     "jp": "女性たちが向き合っている。",
-    "en": "Th e women are facing each other.",
-    "scramble": "facing / women / e / Th / each / other / are"
+    "en": "The women are facing each other.",
+    "scramble": "each / other / facing / are / The / women"
   },
   {
     "jp": "女性の一人がカップから飲んでいる。",
@@ -261,27 +261,27 @@
   },
   {
     "jp": "男性の一人がソファの近くに立っている。",
-    "en": "One of the men is standing near a  couch.",
+    "en": "One of the men is standing near a couch.",
     "scramble": "is / the / One / near / couch / standing / a / men / of"
   },
   {
     "jp": "その男性の一人がカップを持っている。",
-    "en": "One of the men is holding a  cup.",
+    "en": "One of the men is holding a cup.",
     "scramble": "cup / One / holding / a / is / men / the / of"
   },
   {
     "jp": "彼らはいくつかの椅子を並べ替えている。",
-    "en": "They're rearranging some  chairs.",
+    "en": "They're rearranging some chairs.",
     "scramble": "some / rearranging / chairs / They're"
   },
   {
     "jp": "彼らは何か食べ物を調理しています。",
-    "en": "They're cooking  some  food.",
+    "en": "They're cooking some food.",
     "scramble": "some / food / They're / cooking"
   },
   {
     "jp": "彼女はレジで支払いをしている。",
-    "en": "She's paying at a cash  register.",
+    "en": "She's paying at a cash register.",
     "scramble": "cash / at / paying / She's / a / register"
   },
   {
@@ -291,7 +291,7 @@
   },
   {
     "jp": "彼女はレストランのメニューを読んでいます。",
-    "en": "She's reading a restaurant  menu.",
+    "en": "She's reading a restaurant menu.",
     "scramble": "menu / restaurant / reading / a / She's"
   },
   {
@@ -301,22 +301,22 @@
   },
   {
     "jp": "彼らは劇場の外で列に並んで待っている。",
-    "en": "They're waiting in line outside a  theater.",
+    "en": "They're waiting in line outside a theater.",
     "scramble": "line / outside / They're / in / waiting / a / theater"
   },
   {
     "jp": "その男性はコンピューターを修理しています。",
-    "en": "The man is repairing a  computer.",
+    "en": "The man is repairing a computer.",
     "scramble": "man / a / The / computer / repairing / is"
   },
   {
     "jp": "本は図書館に展示されている。",
-    "en": "Books are on display in a  library.",
+    "en": "Books are on display in a library.",
     "scramble": "in / a / library / Books / are / on / display"
   },
   {
     "jp": "その女性は部屋からランプを持ち出している。",
-    "en": "The woman is carrying a lamp out of  the room.",
+    "en": "The woman is carrying a lamp out of the room.",
     "scramble": "carrying / out / a / woman / lamp / is / The / the / of / room"
   },
   {
@@ -326,27 +326,27 @@
   },
   {
     "jp": "屋外にダイニングエリアが設置されている。",
-    "en": "A dining area has been set up  outdoors.",
+    "en": "A dining area has been set up outdoors.",
     "scramble": "area / outdoors / up / dining / set / A / has / been"
   },
   {
     "jp": "椅子がカートの上に積み重ねられている。",
-    "en": "Chairs have been stacked on a  cart.",
+    "en": "Chairs have been stacked on a cart.",
     "scramble": "have / stacked / on / cart / been / a / Chairs"
   },
   {
     "jp": "カフェで食事が提供されている。",
-    "en": "Food is being served at  a café.",
+    "en": "Food is being served at a café.",
     "scramble": "at / café / is / served / Food / being / a"
   },
   {
     "jp": "彼は収納ユニットから箱を取り出している。",
-    "en": "He's removing a box from a storage  unit.",
+    "en": "He's removing a box from a storage unit.",
     "scramble": "He's / a / from / removing / box / storage / unit / a"
   },
   {
     "jp": "彼は仕事の制服を畳んでいます。",
-    "en": "He's folding a work  uniform.",
+    "en": "He's folding a work uniform.",
     "scramble": "He's / folding / a / uniform / work"
   },
   {
@@ -356,7 +356,7 @@
   },
   {
     "jp": "はしごが横向きに持たれています。",
-    "en": "A ladder is being  held sideways.",
+    "en": "A ladder is being held sideways.",
     "scramble": "ladder / is / being / held / sideways / A"
   },
   {
@@ -396,7 +396,7 @@
   },
   {
     "jp": "いくつかの女性が美術展覧会に参加している。",
-    "en": "Some women  are attending an art exhibit.",
+    "en": "Some women are attending an art exhibit.",
     "scramble": "are / attending / an / women / exhibit / art / Some"
   },
   {
@@ -406,8 +406,8 @@
   },
   {
     "jp": "彼はマニュアルを参照している。",
-    "en": "He's consulting a ma nual.",
-    "scramble": "He's / consulting / ma / a / nual"
+    "en": "He's consulting a manual.",
+    "scramble": "He's / consulting / a / manual"
   },
   {
     "jp": "彼はコンピューターモニターを持ち上げている。",
@@ -436,8 +436,8 @@
   },
   {
     "jp": "男性がビュッフェからいくつかの食べ物を選んでいます。",
-    "en": "A man is sele cting some food from a buffet.",
-    "scramble": "food / some / a / is / buffet / from / sele / man / A / cting"
+    "en": "A man is selecting some food from a buffet.",
+    "scramble": "buffet / a / from / food / some / selecting / is / man / A"
   },
   {
     "jp": "いくつかの本が床に積み重ねられている。",
@@ -451,8 +451,8 @@
   },
   {
     "jp": "壁の一つは棚が並んでいます。",
-    "en": "One of th e walls is lined with shelves.",
-    "scramble": "with / e / of / walls / lined / th / One / is / shelves"
+    "en": "One of the walls is lined with shelves.",
+    "scramble": "shelves / with / lined / is / walls / the / of / One"
   },
   {
     "jp": "椅子が隅に押しやられている。",
@@ -471,8 +471,8 @@
   },
   {
     "jp": "トラックのバックドアが開いている。",
-    "en": "The back do or of a truck has been opened.",
-    "scramble": "do / of / a / been / opened / The / or / truck / has / back"
+    "en": "The back door of a truck has been opened.",
+    "scramble": "opened / been / has / truck / a / of / door / back / The"
   },
   {
     "jp": "車が信号機のところで曲がっている。",
@@ -526,8 +526,8 @@
   },
   {
     "jp": "その女性の1人が自転車の鍵を開けています。",
-    "en": "One of the women is openi ng a bicycle lock.",
-    "scramble": "One / a / openi / lock / ng / bicycle / the / of / is / women"
+    "en": "One of the women is opening a bicycle lock.",
+    "scramble": "lock / bicycle / a / opening / is / women / the / of / One"
   },
   {
     "jp": "ある人たちがドアの入り口に近づいている。",
@@ -576,8 +576,8 @@
   },
   {
     "jp": "いくつかの軽食がディスプレイケースの中に整理されて配置されている。",
-    "en": "Some refreshments have been organized in a di splay case.",
-    "scramble": "case / been / splay / di / organized / Some / in / a / refreshments / have"
+    "en": "Some refreshments have been organized in a display case.",
+    "scramble": "case / display / a / in / organized / been / have / refreshments / Some"
   },
   {
     "jp": "トラックの近くにいくつかの交通コーンが置かれている。",
@@ -636,8 +636,8 @@
   },
   {
     "jp": "その男の一人は戸口に立っている。",
-    "en": "One of th e men is standing in a doorway.",
-    "scramble": "of / a / men / th / standing / in / doorway / e / is / One"
+    "en": "One of the men is standing in a doorway.",
+    "scramble": "doorway / a / in / standing / is / men / the / of / One"
   },
   {
     "jp": "彼はいくつかの瓦礫を片付けている。",

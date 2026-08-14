@@ -20,7 +20,7 @@
     "scramble": "removing / supplies / from / a / vehicle / She's"
   },
   {
-    "jp": "何人かの人が庭に立っています。",
+    "jp": "庭に立っている人たちがいます。",
     "en": "Some people are standing in a garden.",
     "scramble": "a / standing / are / people / Some / garden / in"
   },
@@ -60,12 +60,12 @@
     "scramble": "suitcase / has / against / been / a / backpack / A / propped"
   },
   {
-    "jp": "何人かの人が通りのゴミを拾っています。",
+    "jp": "通りのゴミを拾っている人たちがいます。",
     "en": "Some people are picking up trash from a street.",
     "scramble": "up / Some / picking / street / people / from / a / are / trash"
   },
   {
-    "jp": "何人かの人が手すりを修理しています。",
+    "jp": "手すりを修理している人たちがいます。",
     "en": "Some people are repairing a railing.",
     "scramble": "are / repairing / Some / railing / people / a"
   },
@@ -160,22 +160,22 @@
     "scramble": "hanging / is / on / a / hook / vest / a / A / safety / man"
   },
   {
-    "jp": "何人かの人がオフィスで会議をしています。",
+    "jp": "オフィスで会議をしている人たちがいます。",
     "en": "Some people are meeting in an office space.",
     "scramble": "office / meeting / in / are / an / space / people / Some"
   },
   {
-    "jp": "何人かの人がロビーの家具を並べ替えています。",
+    "jp": "ロビーの家具を並べ替えている人たちがいます。",
     "en": "Some people are rearranging the furniture in a lobby.",
     "scramble": "are / furniture / Some / rearranging / in / lobby / people / a / the"
   },
   {
-    "jp": "一人が本を棚に置いています。",
+    "jp": "何人かの一人が本を棚に置いています。",
     "en": "One of the people is placing a book on a shelf.",
     "scramble": "One / is / book / shelf / the / a / placing / on / of / people / a"
   },
   {
-    "jp": "一人がコンピューターの画面の前に立っています。",
+    "jp": "何人かの一人がコンピューターの画面の前に立っています。",
     "en": "One of the people is standing in front of a computer monitor.",
     "scramble": "people / front / is / a / of / the / standing / in / computer / of / One / monitor"
   },
@@ -280,22 +280,22 @@
     "scramble": "He's / a / machine / looking / behind"
   },
   {
-    "jp": "一人が飲み物を持ち運んでいます。",
+    "jp": "何人かの一人が飲み物を持ち運んでいます。",
     "en": "One of the people is carrying a beverage.",
     "scramble": "a / is / of / people / carrying / One / the / beverage"
   },
   {
-    "jp": "一人がスーツケースを引いています。",
+    "jp": "何人かの一人がスーツケースを引いています。",
     "en": "One of the people is pulling a suitcase.",
     "scramble": "suitcase / people / is / pulling / a / of / the / One"
   },
   {
-    "jp": "何人かの人がレストランに入っていきます。",
+    "jp": "レストランに入っている人たちがいます。",
     "en": "Some people are entering a restaurant.",
     "scramble": "people / are / restaurant / Some / entering / a"
   },
   {
-    "jp": "何人かの人が建物の中を歩いています。",
+    "jp": "建物の中を歩いている人たちがいます。",
     "en": "Some people are walking through a building.",
     "scramble": "are / walking / building / Some / through / people / a"
   },
@@ -320,12 +320,12 @@
     "scramble": "been / pulled / Some / blinds / window / have / closed"
   },
   {
-    "jp": "何人かの人が電車に乗り込んでいます。",
+    "jp": "電車に乗り込んでいる人たちがいます。",
     "en": "Some people are boarding a train.",
     "scramble": "people / are / a / train / Some / boarding"
   },
   {
-    "jp": "何人かの人が建物から出てきています。",
+    "jp": "建物から出てきている人たちがいます。",
     "en": "Some people are exiting a building.",
     "scramble": "people / building / Some / a / are / exiting"
   },
@@ -410,12 +410,12 @@
     "scramble": "A / leaning / man / is / metal / against / a / railing"
   },
   {
-    "jp": "何人かの人がベンチでくつろいでいます。",
+    "jp": "ベンチでくつろいでいる人たちがいます。",
     "en": "Some people are relaxing on benches.",
     "scramble": "Some / benches / are / people / relaxing / on"
   },
   {
-    "jp": "何人かの人が橋を渡って歩いています。",
+    "jp": "橋を渡って歩いている人たちがいます。",
     "en": "Some people are walking over a bridge.",
     "scramble": "Some / over / bridge / a / people / are / walking"
   },
